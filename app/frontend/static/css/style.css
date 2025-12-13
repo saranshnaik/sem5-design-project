@@ -1,0 +1,361 @@
+/* ==============================
+   THEME VARIABLES
+============================== */
+:root {
+  --bg: #0b0b0c;
+  --panel: #121315;
+  --accent: #1f2226;
+  --text: #e6e6e6;
+  --subtext: #b9bdc1;
+  --primary: #6ee7b7;
+  --user-bubble: #17513c;
+  --bot-bubble: #1b1e21;
+  --border: rgba(255, 255, 255, 0.08);
+  --glass: rgba(255, 255, 255, 0.04);
+  --danger: #d9534f;
+  --radius: 14px;
+  --transition: 0.25s ease;
+}
+
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body,
+html {
+  margin: 0;
+  height: 100%;
+  font-family: "Inter", "Segoe UI", Roboto, system-ui, -apple-system;
+  background: var(--bg);
+  color: var(--text);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ==============================
+   WRAPPER
+============================== */
+.chat-wrapper {
+  width: 760px;
+  max-width: 96%;
+  background: var(--panel);
+  border-radius: var(--radius);
+  display: flex;
+  flex-direction: column;
+  height: 88vh;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+
+/* ==============================
+   HEADER
+============================== */
+header {
+  padding: 16px;
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+  background: var(--accent);
+}
+
+header h2 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* ==============================
+   CHAT AREA
+============================== */
+.chat-container {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  background: var(--panel);
+}
+
+/* SCROLLBAR */
+.chat-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.chat-container::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 4px;
+}
+
+/* ==============================
+   MESSAGES
+============================== */
+.message {
+  max-width: 75%;
+  padding: 12px 16px;
+  border-radius: 14px;
+  font-size: 15px;
+  line-height: 1.45;
+  animation: fadeInUp 0.25s ease;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.message.user {
+  background: var(--user-bubble);
+  align-self: flex-end;
+  color: var(--text);
+}
+
+.message.bot {
+  background: var(--bot-bubble);
+  align-self: flex-start;
+  border: 1px solid var(--border);
+}
+
+/* ==============================
+   INPUT AREA
+============================== */
+.input-area {
+  display: flex;
+  padding: 14px 16px;
+  border-top: 1px solid var(--border);
+  background: var(--accent);
+  gap: 10px;
+}
+
+.input-area input {
+  flex: 1;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  font-size: 15px;
+  outline: none;
+  transition: border var(--transition);
+}
+
+.input-area input:focus {
+  border-color: var(--primary);
+}
+
+.input-area button {
+  background: var(--primary);
+  border: none;
+  padding: 12px 18px;
+  border-radius: 10px;
+  color: #061410;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.1s ease;
+}
+
+.input-area button:hover {
+  transform: translateY(-2px);
+}
+
+/* ==============================
+   COMPARE BUTTON (DEV ONLY)
+============================== */
+.compare-btn {
+  background: var(--glass);
+  color: var(--subtext);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 8px 14px;
+  font-size: 14px;
+  margin: 10px auto;
+  display: block;
+  cursor: pointer;
+  transition: background var(--transition);
+}
+
+.compare-btn:hover {
+  background: var(--accent);
+}
+
+/* ==============================
+   POPUP
+============================== */
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(10, 10, 10, 0.8);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+.popup-content {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 24px;
+  width: 420px;
+  max-width: 90%;
+  text-align: center;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+
+.popup-content h3 {
+  margin-top: 0;
+  font-size: 18px;
+  color: var(--primary);
+}
+
+.popup-content p {
+  color: var(--subtext);
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+  justify-content: center;
+}
+
+.tag-list label {
+  background: var(--glass);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 12px;
+  color: var(--subtext);
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.popup-buttons {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.popup-buttons button {
+  flex: 1;
+  padding: 10px 0;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+}
+
+#applyFilter {
+  background: var(--primary);
+  color: #061410;
+}
+
+#keepOriginal {
+  background: var(--accent);
+  color: var(--text);
+}
+
+/* ==============================
+   ANIMATIONS
+============================== */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ==============================
+   RESPONSIVE
+============================== */
+@media (max-width: 640px) {
+  .chat-wrapper {
+    height: 94vh;
+  }
+
+  .popup-content {
+    width: 90%;
+  }
+
+  .message {
+    font-size: 14px;
+    max-width: 85%;
+  }
+}
+
+/* Typing dots animation */
+.message.bot.typing {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.message.bot.typing .dot {
+  width: 6px;
+  height: 6px;
+  background: #c9d1d9;
+  border-radius: 50%;
+  animation: blink 1.4s infinite both;
+}
+
+.message.bot.typing .dot:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.message.bot.typing .dot:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes blink {
+
+  0%,
+  80%,
+  100% {
+    opacity: 0.3;
+  }
+
+  40% {
+    opacity: 1;
+  }
+}
+
+.popup {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+.popup-content {
+  background: #1e1e1e;
+  color: white;
+  padding: 20px;
+  border-radius: 12px;
+  width: 400px;
+}
+
+.tag-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 6px 0;
+}
+
+.tag-item input[type="checkbox"] {
+  transform: scale(1.2);
+}

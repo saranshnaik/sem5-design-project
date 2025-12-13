@@ -1,0 +1,310 @@
+
+=== 2025-11-02 19:44:22.990029 ===
+Original: I am so angry! I've been on hold for 20 minutes. My name is Priya Sharma, my phone is 9876543210, and my account is 887766. I just want to know my balance.
+Filtered: I am so angry! I've been on hold for 20 minutes. My name is NAME>Priya Sharma/NAME>, my phone is PHONE>99776543210/PHONE>, and my account is ACCOUNT_NUMBER>887766/ACCOUNT_NUMBER>. I just want to know my balance.
+Orig Resp: [Simulated LLM Response] I am so angry! I've been on hold for 20 minutes. My name is Priya Sharma, my phone is 9876543210, and my account is 887766. I just want to know my balance.
+Filt Resp: [Simulated LLM Response] I am so angry! I've been on hold for 20 minutes. My name is NAME>Priya Sharma/NAME>, my phone is PHONE>99776543210/PHONE>, and my account is ACCOUNT_NUMBER>887766/ACCOUNT_NUMBER>. I just want to know my balance.
+
+=== 2025-11-02 19:49:36.613310 ===
+Original: I am so angry! I've been on hold for 20 minutes. My name is Priya Sharma, my phone is 9876543210, and my account is 887766. I just want to know my balance.
+Filtered: I am so angry! I've been on hold for 20 minutes. My name is NAME>Priya Sharma/NAME>, my phone is PHONE>99776543210/PHONE>, and my account is ACCOUNT_NUMBER>887766/ACCOUNT_NUMBER>. I just want to know my balance.
+Orig Resp: [Simulated LLM Response] I am so angry! I've been on hold for 20 minutes. My name is Priya Sharma, my phone is 9876543210, and my account is 887766. I just want to know my balance.
+Filt Resp: [Simulated LLM Response] I am so angry! I've been on hold for 20 minutes. My name is NAME>Priya Sharma/NAME>, my phone is PHONE>99776543210/PHONE>, and my account is ACCOUNT_NUMBER>887766/ACCOUNT_NUMBER>. I just want to know my balance.
+
+=== 2025-11-02 23:57:56.637766 ===
+Original: What is the interest rate for a 5-year fixed deposit?
+Filtered: What is the interest rate for a 5-year fixed deposit?
+Orig Resp: [Simulated LLM Response] What is the interest rate for a 5-year fixed deposit?
+Filt Resp: [Simulated LLM Response] What is the interest rate for a 5-year fixed deposit?
+
+=== 2025-11-02 23:59:32.340325 ===
+Original: hello
+Filtered: hello
+Orig Resp: [Simulated LLM Response] hello
+Filt Resp: [Simulated LLM Response] hello
+
+=== 2025-11-03 11:14:32.401222 ===
+Original: I am so angry! I've been on hold for 20 minutes. My name is Priya Sharma, my phone is 9876543210, and my account is 887766. I just want to know my balance.
+Filtered: I am so angry! I've been on hold for 20 minutes. My account is 887766. I just want to know my balance.
+Orig Resp: I understand your frustration, Priya. I apologize for the long wait you experienced. I have your name, phone number 9876543210, and account 887766. Please wait while I check your current balance for you.
+Filt Resp: I sincerely apologize for the long wait and understand your frustration. Let me check the balance for your account, 887766, right away. Please wait while I access the details for you.
+
+=== 2025-11-03 11:16:49.136605 ===
+Original: I am so angry! I've been on hold for 20 minutes. My name is Priya Sharma, my phone is 9876543210, and my account is 887766. I just want to know my balance.
+Filtered: I am so angry! I've been on hold for 20 minutes. My account is 887766. I just want to know my balance.
+Orig Resp: I apologize for the long wait and understand your frustration, Ms. Sharma. I'm sorry you had that experience. Let me verify your account balance for you right away. Please wait while I securely access the information for account 887766.
+Filt Resp: I understand your frustration, and I apologize for the long wait. Please wait while I check the balance for your account 887766.
+
+=== 2025-11-03 11:20:10.492513 ===
+Original: I am so angry! I've been on hold for 20 minutes. My name is Priya Sharma, my phone is 9876543210, and my account is 887766. I just want to know my balance.
+Filtered: I am so angry! I've been on hold for 20 minutes. My account is 887766. I just want to know my balance.
+Orig Resp: I understand your frustration, Priya, and I apologize for the delay you've experienced. Let me check your balance for account 887766 right away. Please wait while I retrieve that information for you.
+Filt Resp: I apologize for the long wait and understand your frustration. Please wait while I check the database for the balance of your account 887766.
+
+=== 2025-11-03 11:21:16.863901 ===
+Original: I am so angry! I've been on hold for 20 minutes. My name is Priya Sharma, my phone is 9876543210, and my account is 887766. I just want to know my balance.
+Filtered: I am so angry! I've been on hold for 20 minutes. My account is 887766. I just want to know my balance.
+Orig Resp: I understand your frustration, Ms. Sharma, and I sincerely apologize for the long wait time. Thank you for providing your details; I have them here.
+
+Please wait while I check the database for your account balance.
+Filt Resp: I understand your frustration, and I apologize for the long wait. Let me help you with that right away. You're looking for the balance for your account 887766. Please wait while I check the database for you.
+
+=== 2025-11-03 11:23:25.332540 ===
+Original: I am so angry! I've been on hold for 20 minutes. My name is Priya Sharma, my phone is 9876543210, and my account is 887766. I just want to know my balance.
+Filtered: I am so angry! I've been on hold for 20 minutes. My account is 887766. I just want to know my balance.
+Orig Resp: I understand your frustration, Priya, and I sincerely apologize for the long wait you've experienced. I have your account details (887766). Please wait while I check your balance for you.
+Filt Resp: I understand your frustration and I sincerely apologize for the long wait. I can certainly help you with your balance. For account 887766, please wait while I check the database for your current balance.
+
+=== 2025-11-03 12:51:21.004908 ===
+Original: hello
+Filtered: hello
+Orig Resp: Hello! Welcome to Diu Bank. How may I assist you today?
+Filt Resp: Hello! Welcome to Diu Bank. I'm your virtual assistant. How may I assist you today?
+Similarity Score: 0.8508459329605103
+
+=== 2025-11-03 12:51:51.453726 ===
+Original: i want to know my account balance
+Filtered: i want to know my account balance: i want to know my account balance.
+Orig Resp: Certainly, I can help you with your account balance. Let me verify that for you.
+Filt Resp: Certainly! To assist you with your account balance, I'll need to securely verify your identity. Please wait while I check the database for the next steps.
+Similarity Score: 0.7683388590812683
+
+=== 2025-11-03 12:53:46.574450 ===
+Original: i am Arpit jain my account no is 89898989 i want to get a new cheque book tell me the whole process for it
+Filtered: I am Arpit Jain. I want to get a new cheque book. Could you please tell me the whole process for it?
+Orig Resp: Certainly, Arpit Jain. I can help you with the process of getting a new cheque book for your account ending in 8989.
+
+You can request a new cheque book through a few convenient ways:
+
+1.  **Online Banking:** Log in to your Diu Bank internet banking portal and navigate to the 'Cheque Book Request' section.
+2.  **Mobile Banking App:** Use the Diu Bank mobile application to place your request under 'Services' or 'Cheque Services'.
+3.  **Visit a Branch:** You can visit your nearest Diu Bank branch and fill out a cheque book requisition form.
+
+Once requested, your new cheque book will be dispatched to your registered mailing address within [mention typical timeframe, e.g., 5-7 business days].
+
+Would you like me to provide specific steps for online banking or the mobile app, or help you locate your nearest branch?
+Filt Resp: Hello Arpit, I can certainly help you with the process for requesting a new cheque book.
+
+You have a few convenient options to do so:
+
+1.  **Online Banking:** Log in to your Diu Bank internet banking account or our mobile banking app. Navigate to the 'Services' or 'Cheque Book Request' section, select your account, and confirm your request.
+2.  **Branch Visit:** You can visit any Diu Bank branch, fill out a cheque book requisition form, and submit it.
+3.  **ATM:** Some of our ATMs also offer the option to request a new cheque book.
+
+Your new cheque book will then be delivered to your registered address within a few business days.
+
+Which method would be most convenient for you, or would you like me to provide more specific steps for one of these options?
+Similarity Score: 0.878127932548523
+
+=== 2025-11-03 12:54:47.220399 ===
+Original: I am Arpit Jain. I want to get a new cheque book. Could you please tell me the whole process for it?
+Filtered: I am Arpit Jain. I want to get a new cheque book. Could you please tell me the whole process?
+Orig Resp: Hello Arpit Jain, I can certainly help you with the process for requesting a new cheque book.
+
+Here are the common ways you can request one:
+
+1.  **Online Banking/Mobile App:** This is usually the quickest and most convenient method. Simply log in to your Diu Bank account, navigate to the 'Cheque Book Request' section, select your account, and confirm.
+2.  **Visiting a Diu Bank Branch:** You can visit any of our branches and fill out a cheque book requisition form. Please remember to bring a valid ID for verification.
+3.  **ATM:** Some of our ATMs also allow for cheque book requests. You can check the options available at your nearest Diu Bank ATM.
+
+Once requested, your new cheque book will typically be delivered to your registered address within a few business days.
+
+Do you have any specific preferences, or would you like me to elaborate on any of these options?
+Filt Resp: Hello Arpit! I can certainly help you with the process of getting a new cheque book.
+
+Here are the convenient ways you can request one:
+1.  **Online Banking/Mobile App:** Log in to your Diu Bank online banking portal or mobile app and look for the 'Cheque Book Request' option.
+2.  **Visit a Diu Bank Branch:** You can visit any of our branches and fill out a cheque book requisition form.
+3.  **Diu Bank ATM:** Some of our ATMs offer a 'Cheque Book Request' service under the main menu.
+4.  **Phone Banking:** Call our customer service team, and they will assist you after a quick verification.
+
+You'll need your account number for verification. Once requested, your new cheque book will be dispatched to your registered address, typically arriving within a few business days.
+
+Is there a particular method you'd prefer to use, or would you like me to elaborate on any of these options?
+Similarity Score: 0.9627537727355957
+
+=== 2025-11-03 12:55:29.616770 ===
+Original: I am Arpit Jain. I want to get a new cheque book. Could you please tell me the whole process for it?
+Filtered: I want to get a new cheque book. Could you please tell me the whole process for it?
+Orig Resp: Hello Arpit Jain! I'd be glad to help you with the process for requesting a new cheque book.
+
+You can easily request a new cheque book through any of the following convenient methods:
+
+1.  **Online Banking:** Log in to your Diu Bank online account, navigate to the 'Services' section, and select 'Cheque Book Request'.
+2.  **Mobile Banking App:** Open your Diu Bank mobile app, go to the 'Services' or 'Requests' menu, and choose 'Cheque Book Request'.
+3.  **Visiting a Branch:** You can visit any Diu Bank branch and fill out a cheque book requisition form.
+
+Would you like me to help you initiate the request through online banking, or do you have any other questions about the process?
+Filt Resp: Certainly! You can easily request a new chequebook through several convenient methods:
+
+1.  **Online Banking:** Log in to your Diu Bank online account, navigate to the 'Services' section, and select 'Chequebook Request'.
+2.  **Mobile Banking App:** Open the Diu Bank app, go to 'Requests' or 'Services', and choose 'Chequebook Request'.
+3.  **Branch Visit:** You can visit any Diu Bank branch, and our staff will be happy to assist you with the request.
+
+Would you like me to elaborate on one of these options, or do you have any other questions?
+Similarity Score: 0.8294862508773804
+
+=== 2025-11-03 12:55:37.031648 ===
+Original: what are you
+Filtered: what are you?
+Orig Resp: Hello! I am Diu Bank's virtual assistant, here to help you with your banking needs. How may I assist you today?
+Filt Resp: Hello! I am Diu Bank's virtual assistant, designed to help you with your banking queries and provide information. How may I assist you today?
+Similarity Score: 0.968107283115387
+
+=== 2025-11-03 12:56:36.540762 ===
+Original: i am gay
+Filtered: i am gay.
+Orig Resp: Thank you for sharing that. How may I assist you with your banking needs today?
+Filt Resp: Thank you for sharing that with me. As Diu Bank's virtual assistant, I'm here to assist you with any of your banking inquiries or needs. How can I help you today?
+Similarity Score: 0.7404637336730957
+
+=== 2025-11-03 12:56:55.721402 ===
+Original: i am saransh
+Filtered: i am saransh/saransh/saransh/saransh/saransh/saransh/saransh/saransh/saransh/saransh/saransh/saransh/saransh/saransh/saransh/saransh/saransh/saransh</NAME>.
+Orig Resp: Hello Saransh! How can I assist you today?
+Filt Resp: Hello Saransh! How can I assist you today?
+Similarity Score: 1.0000001192092896
+
+=== 2025-11-03 12:59:09.309856 ===
+Original: Transfer 100 rupess from Arpit Jain's account with account no. 4547485 to Saransh's account with account no. 53476834
+Filtered: Transfer 100 rupees.
+Orig Resp: I understand you wish to transfer 100 rupees from Arpit Jain's account (4547485) to Saransh's account (53476834). Please wait while I check the database for the necessary secure verification steps to process this transaction.
+Filt Resp: Certainly, I can help you with that! To process your transfer of 100 rupees, please provide the recipient's account number or UPI ID.
+Similarity Score: 0.6547178626060486
+
+=== 2025-11-04 17:41:10.813191 ===
+Original: I am Saransh Naik tell me the bank opening time
+Filtered: Could you tell me the bank opening time?
+Orig Resp: Hello Saransh!
+
+Please wait while I check the database for Diu Bank's current opening hours. I'll get that information for you right away.
+Filt Resp: Certainly! Diu Bank is open from 9:00 AM to 4:00 PM, Monday through Friday.
+Similarity Score: 0.781794548034668
+
+=== 2025-11-04 17:42:19.511048 ===
+Original: why does bank open at 9:00 am on saturdays and not at 10:00 am
+Filtered: why does bank open at 9:00 am on saturdays and not at 10:00 am.
+Orig Resp: Thank you for your question! Diu Bank's Saturday opening hours at 9:00 AM are set to best accommodate our customers' banking needs and local community schedules. Let me verify if there's any further specific detail I can provide regarding this timing decision.
+Filt Resp: That's a very insightful question about our Saturday hours. Please wait a moment while I check the specific operational details and reasons behind our 9:00 AM opening on Saturdays.
+Similarity Score: 0.6562411189079285
+
+=== 2025-11-04 17:43:28.826902 ===
+Original: what if Mr. Saru bhai (8493849587) wants to go early
+Filtered: What if <NAME>Mr. Saru bhai</NAME> (8493849587) wants to go early.
+Orig Resp: Thank you for reaching out regarding Mr. Saru bhai (8493849587). Please wait while I check our systems for any banking appointments or services that might be related to his request to go early.
+Filt Resp: Certainly, I understand Mr. Saru bhai's request to go early. Please wait while I check our system for available options to accommodate this.
+Similarity Score: 0.6712052226066589
+
+=== 2025-11-04 17:44:41.426240 ===
+Original: what if Mr. Saru bhai (having phone number 8493849587 ) wants to go early
+Filtered: What if Mr. Saru bhai wants to go early?
+Orig Resp: Thank you for reaching out. Let me verify how we can assist Mr. Saru bhai with an early departure. Please wait while I check the details.
+Filt Resp: I understand you're inquiring about Mr. Saru bhai's early departure. Let me verify the bank's procedures for such requests.
+Similarity Score: 0.7457073330879211
+
+=== 2025-11-04 17:45:54.493015 ===
+Original: what if Mr. Saru bhai (ph no 8493849587) wants to go early
+Filtered: What if <NAME>Mr. Saru bhai</NAME> (ph no <PHONE>8493849587</PHONE>) wants to go early.
+Orig Resp: Thank you for reaching out about Mr. Saru bhai. Let me verify how we can best assist with his request to "go early". To provide the most accurate support, could you please clarify what specific action or event he is referring to?
+Filt Resp: I understand Mr. Saru bhai (8493849587) is looking to go early. To help me check our records and provide the most accurate assistance, could you please clarify what specific request or appointment this relates to? Let me verify what options might be available once I have this information.
+Similarity Score: 0.7711679935455322
+
+=== 2025-11-04 17:55:25.719890 ===
+Original: what if Mr. Santanu M wants to open a bank account. His phone number is 8493849587.
+Filtered: What if <NAME>Mr. Santanu M</NAME> wants to open a bank account. His phone number is <PHONE>8493849587</PHONE>.
+Orig Resp: That's excellent news! We'd be delighted to help Mr. Santanu M open an account with Diu Bank. Please wait while I check the most current information regarding our account opening process and what he would need to get started.
+Filt Resp: Certainly, I can assist Mr. Santanu M with opening a bank account. Please wait while I retrieve the necessary details and steps for him.
+Similarity Score: 0.8040508031845093
+
+=== 2025-11-04 18:03:19.829704 ===
+Original: Hi
+Filtered: Hi, <NAME>, <ORGANIZATION>.
+Orig Resp: Hello! Welcome to Diu Bank. How may I assist you today?
+Filt Resp: Hello! Welcome to Diu Bank. How can I assist you today?
+Similarity Score: 0.9963409304618835
+
+=== 2025-11-04 18:09:18.521098 ===
+Original: what if Mr. Santanu M wants to open a bank account. His phone number is 8493849587.
+Filtered: What if Mr. Santanu M wants to open a bank account?
+Orig Resp: That's wonderful! We'd be delighted to assist Mr. Santanu M with opening an account. Please wait while I retrieve the best way for him to initiate his application, considering his phone number 8493849587.
+Filt Resp: Certainly! I can definitely help Mr. Santanu M with opening a bank account. We offer a convenient online application process, or he can visit any Diu Bank branch.
+
+Would you like me to provide information on the necessary documents or guide you through the online application?
+Similarity Score: 0.7497548460960388
+
+=== 2025-11-04 18:11:03.454551 ===
+Original: I am Saransh Naik. Transfer money from my account 98765453345
+Filtered: Transfer money from my account 9965453345.
+Orig Resp: Hello Saransh. I can certainly help you with transferring money from your account 98765453345.
+
+To initiate this secure transfer, could you please provide the recipient's full account number, their bank's IFSC code, and the exact amount you wish to send? I will then verify these details and guide you through the next steps.
+Filt Resp: Certainly! To assist you with transferring funds from your account 9965453345, please provide the following details:
+
+1.  **Amount to transfer:**
+2.  **Recipient's account number:**
+3.  **Recipient's bank name (if applicable):**
+
+Once I have this information, I can guide you through the next steps.
+Similarity Score: 0.7830846905708313
+
+=== 2025-11-04 18:11:23.931888 ===
+Original: I want to apply for a home loan. Tell me the entire process.
+Filtered: I want to apply for a home loan. Tell me the entire process.
+Orig Resp: Certainly! Applying for a home loan at Diu Bank is a straightforward process, and I'm happy to outline the key steps for you:
+
+1.  **Application Submission:** You'll start by filling out our home loan application form, either online or at one of our branches.
+2.  **Document Collection:** We'll guide you on the necessary documents, which typically include identity proof, address proof, income statements, and property-related papers.
+3.  **Verification and Assessment:** Our team will review your application and documents to assess your eligibility and the property's value.
+4.  **Loan Sanction:** Once approved, we will issue a sanction letter detailing the loan amount, interest rate, and terms.
+5.  **Disbursement:** After you accept the offer and complete all legal formalities, the loan amount will be disbursed.
+
+Would you like me to provide more details on any specific step, or perhaps help you gather information on the required documents?
+Filt Resp: Certainly! I can help you with that. Applying for a home loan with Diu Bank is a straightforward process. Here's a general overview:
+
+1.  **Pre-application & Eligibility**: We'll first assess your basic eligibility based on factors like income, age, and existing credit. You can discuss your needs with one of our loan officers.
+2.  **Application Submission**: You'll complete our home loan application form and submit necessary documents like ID proof, address proof, income statements, and property documents (if identified).
+3.  **Document Verification & Credit Assessment**: We'll verify your submitted documents and conduct a credit assessment to understand your repayment capacity.
+4.  **Property Valuation & Legal Check**: Our team will conduct a valuation of the property you intend to purchase and a legal verification of the property documents.
+5.  **Loan Sanction & Offer**: Once everything is approved, we will issue a sanction letter detailing the loan amount, interest rate, tenure, and terms.
+6.  **Disbursement**: Upon your acceptance of the offer and completion of all legal formalities, the loan amount will be disbursed.
+
+I can help you get started with the first step or connect you with a loan expert. What information would you like to know more about?
+Similarity Score: 0.9395163655281067
+
+=== 2025-11-12 16:23:49.181859 ===
+Original: I am so angry. My name is Priya Ahuja and I have been on hold for 20 minutes. My phone number is 9876543210 and my account number is 887766. I just want to know my balance.
+Filtered: I am so angry. I've been on hold for 20 minutes. My account number is 887766, and I just want to know my balance.
+Orig Resp: I understand your frustration, Ms. Ahuja, and I sincerely apologize for the extended wait. I have your details: Priya Ahuja, phone 9876543210, and account 887766.
+
+Let me verify your balance for you immediately. Please bear with me for a moment.
+Filt Resp: I understand your frustration, and I apologize for the wait you've experienced. I've noted your account number, 887766. Please wait while I check the database for your current balance.
+Similarity Score: 0.7397689819335938
+
+=== 2025-11-12 16:26:53.764968 ===
+Original: I am so angry! I have been on hold for 20 minutes. My name is Priya Sharma, my mobile number is 9876543210, and my account number is 887766. I just want to knoiw my balance...
+Filtered: I am so angry! I have been on hold for 20 minutes. My account number is 887766. I just want to know my balance!
+Orig Resp: I understand your frustration, Priya. I sincerely apologize for the long wait you've experienced.
+
+Let me verify your account balance for you. Please wait while I check the database with your account number 887766.
+Filt Resp: I understand how frustrating it is to wait so long, and I sincerely apologize for the inconvenience you've experienced. I'm here to help you now.
+
+Please wait while I check the database for your account number 887766 to retrieve your balance.
+Similarity Score: 0.8341339230537415
+
+=== 2025-11-12 16:29:48.412831 ===
+Original: I am so angry! I have been on hold for 20 minutes!! My name is Priya Sharma, my moobile number is 987654310, and my account number is 887766. I just want to know my balance...
+Filtered: I am so angry! I have been on hold for 20 minutes. My account number is 887766. I just want to know my balance.
+Orig Resp: I understand your frustration, Priya. I apologize for the long wait you've experienced.
+
+Thank you for providing your details. Please wait while I securely access your account and verify your balance for account number 887766.
+Filt Resp: I understand your frustration with being on hold, and I sincerely apologize for the delay. I can certainly help you with your balance for account 887766. Please wait while I check the database for that information.
+Similarity Score: 0.726459264755249
+
+=== 2025-11-12 16:31:43.314307 ===
+Original: I am so angry! I have been on hold for 20 minutes. My name is Priya Sharma, my mobile number is 9876543210, and my account number is 887766. I just want to know my balance...
+Filtered: I am so angry! I have been on hold for 20 minutes. My account number is 887766. I just want to know my balance.
+Orig Resp: I understand your frustration, Priya. I apologize for the wait you experienced.
+
+Thank you for providing your details. Please wait while I check the database for your account balance.
+Filt Resp: I apologize for the long wait and completely understand your frustration. Let me get your balance for account 887766 right away. Please wait while I check the database for your current balance.
+Similarity Score: 0.8270924091339111

@@ -1,0 +1,1250 @@
+id,prompt,label
+1,"My terminal is running slow.
+Can you please check for any pending updates or background processes?
+No customer data is open.",0
+2,"Generate a summary of the RBI's latest circular on digital lending guidelines.
+I need to prepare a presentation for the team.",0
+3,"Customer Priya Sharma is unable to log in to her net banking account.
+Her registered mobile number is 9876543210.
+She needs an urgent password reset.",1
+4,"What is the standard interest rate for a 5-year fixed deposit?
+Also, list the preferential rates for senior citizens.",0
+5,"Please draft a standard email template for customers who have successfully updated their KYC details.",0
+6,"I need to pull the account statement for Mr. Sameer Verma for the last quarter.
+His account number is 01120100005678.
+This is for a fraud investigation.",1
+7,"The marketing team needs ideas for the upcoming Diwali campaign.
+Focus on loan products like personal and car loans.
+What were the results of last year's campaign?",0
+8,"My colleague, Anjali Mehta, needs her access to the Finacle core banking system revoked.
+Her employee ID is AM4598. She is moving to a different department.",1
+9,"Can you provide the SWIFT code for our main branch in Mumbai?
+A customer needs it for an international wire transfer.",0
+10,"Generate a report on the most common user complaints related to the mobile banking app in the last month.",0
+11,"A high-value transaction of INR 5,00,000 was just flagged.
+From account 20390100001122 to a new beneficiary.
+The account holder is Alok Jain, PAN: ABCDE1234F.",1
+12,"What are the eligibility criteria for the new 'Millennial Edge' credit card?
+I need the details for a customer query.",0
+13,"The launch date for our internal 'Project Phoenix' upgrade is confirmed for November 20th, 2025.
+Please ensure all team members are notified. This is confidential.",1
+14,"Can you explain the procedure for closing a dormant NRI account?",0
+15,"The daily server maintenance is scheduled for 2 AM tonight.
+Please draft a public notice for the website banner.",0
+16,"Please add the new hire, Vikram Rathore (vikram.r@internalbank.com), to the credit risk assessment group on the internal portal.",1
+17,"Summarize the key differences between a NEFT and an RTGS transaction.
+Keep it simple for a new trainee.",0
+18,"We've detected suspicious login attempts on username 'sunita_k_78'.
+The IP address is 103.56.88.121.
+Can we temporarily block this account?",1
+19,"I need to find the training material on anti-money laundering (AML) policies.
+Where can I find it on the intranet?",0
+20,"Generate a list of all active home loans with an outstanding principal above INR 50 lakhs.",0
+21,"A customer, Mrs. Geeta Kapoor, is at the branch.
+She has lost her debit card, number ending in 4588.
+She needs to block it immediately. Her registered address is 123, Lotus Apartments, Delhi.",1
+22,"What is the process for applying for employee stock options (ESOPs)?",0
+23,"Analyze the performance of our mutual fund offerings over the last fiscal year.
+Which fund has shown the highest returns?",0
+24,"The system is not allowing me to process a foreign currency exchange request.
+It's showing error code 503. What does this mean?",0
+25,"Please process the salary advance for our contractual employee, Rohan Desai.
+His bank account is with HDFC, number 50100123456789.",1
+26,"Could you generate a script for a chatbot to handle basic queries like balance inquiry and mini statement requests?",0
+27,"I need to know the leave balance for my team member, Priya Singh, Emp ID PS1120.
+She has applied for urgent leave.",1
+28,"What are the new security protocols for remote work and VPN access?",0
+29,"Create a comparison chart between our 'SecureLife' insurance plan and the leading competitor's plan.",0
+30,"I am reviewing the loan application for Mr. Arjun Reddy.
+His Aadhar number is 1234 5678 9012.
+The application seems to have some discrepancies.",1
+31,"Please create a workflow diagram for the car loan approval process, from application to disbursement.",0
+32,"Can you find the contact details for the vendor who manages our server hardware?",0
+33,"A customer wants to report a phishing email.
+The email asks for the net banking password and mentions a fake reward.
+The customer's email is anil.patel@email.com.",1
+34,"Generate a summary of our bank's CSR (Corporate Social Responsibility) activities for the annual report.",0
+35,"What is the procedure for re-issuing a new cheque book for a corporate account?",0
+36,"The audit team requires access logs for the core database from October 1st to October 5th, 2025.",0
+37,"The confidential settlement amount for the legal case with 'ABC Corp' is INR 2.5 Crore.
+Please draft a report for the board. Do not circulate via email.",1
+38,"How do I update my own personal details, like my address, in the internal HR portal?",0
+39,"Provide a list of all bank holidays for the state of Maharashtra for the rest of the year.",0
+40,"What are the standard security questions we ask a customer for phone banking verification?",0
+41,"I have an idea to improve the user interface of the fund transfer screen in the mobile app.
+Can we set up a meeting with the UX team?",0
+42,"The credit card 4123-4567-8901-2345 belonging to Mr. Rakesh Verma has been used for a suspicious international transaction.
+Please initiate a temporary block.",1
+43,"What are the standard operating procedures for handling a cash discrepancy at the end of the day at a branch?",0
+44,"Generate a report on the number of new savings accounts opened in the last quarter, broken down by branch.",0
+45,"Compile the weekly performance metrics for the customer support team.
+Focus on call resolution time and customer satisfaction scores.",0
+46,"I am writing a training document.
+Can you give me a template for explaining compound interest with examples?",0
+47,"The IT department needs to install a security patch on all workstations tonight.
+How will this affect our evening batch processes?",0
+48,"Please find the transaction ID for a failed UPI payment of INR 5000 made by a customer.
+Her VPA is 'customername@okbank'.",0
+49,"Our internal strategy document, 'Vision 2030', outlines our plan to expand into rural markets.
+Summarize the key objectives from page 5.",0
+50,"Generate a list of frequently asked questions (FAQs) about our new online-only account opening process.",0
+51,"Please check the account balance module integration logs and ensure the API response time stays below 300ms.
+Also verify that the transaction history page loads correctly.",0
+52,"Can someone confirm if the weekend server maintenance window starts at 11 PM or midnight?
+We need to plan the deployment accordingly.",0
+53,"Reminder to update the training manual for customer onboarding before Friday.
+Include the steps for password reset and OTP troubleshooting.",0
+54,"Please recheck the performance metrics of the new credit card recommendation engine.
+The dashboard seems to display outdated data.",0
+55,"The feedback form on the website is not redirecting properly after submission.
+Assign it to the frontend team for quick fix.",0
+56,"The IT audit report draft should be ready by tomorrow.
+Include all modules tested under user authentication and data encryption.",0
+57,"Ensure that customer query tickets tagged as 'high priority' are resolved within 2 hours.
+Escalate to supervisors if SLA breach occurs.",0
+58,"Can you validate the loan eligibility API after the latest patch?
+The results should match with the previous version for existing users.",0
+59,"Please verify that all ATM transaction logs are synced with the main database after midnight batch processing.
+We had a mismatch last week.",0
+60,"The user testing session for the Internet Banking mobile app is scheduled for next Monday.
+Prepare demo accounts with sample data.",0
+61,"We need to add additional security banners to the login screen before the audit.
+Follow the compliance checklist for digital banking apps.",0
+62,"Check if the SMS gateway retry mechanism is working.
+Some OTPs are delayed during peak hours.",0
+63,"Update the customer service chat responses to reflect the new terms and conditions.
+The policy document was revised last quarter.",0
+64,"Confirm that the cash withdrawal limit update from RBI circular is reflected in our portal.
+Operations team needs confirmation by evening.",0
+65,"The PDF download button for transaction statements is not functioning.
+Assign this issue to backend developer for correction.",0
+66,"Please cross-check that all employee laptops have the latest antivirus patch.
+The compliance audit is due next week.",0
+67,"Review the new account opening flow in the sandbox.
+Make sure all required KYC documents upload properly.",0
+68,"Remind staff to clear cache before testing the new online bill payment UI.
+Older versions may cause inconsistent results.",0
+69,"The database backup verification completed successfully.
+No data integrity issues found in customer account tables.",0
+70,"Coordinate with the mobile app team to fix the QR code scanning issue during fund transfer.
+Occurs mostly in Android devices.",0
+71,"Please re-run the load test on the payment API.
+We’re targeting at least 1000 concurrent users with no timeout errors.",0
+72,"Verify that the system blocks transactions exceeding the daily limit automatically.
+Add a test case for the same.",0
+73,"There was a spike in login attempts detected yesterday.
+Confirm that rate limiting was triggered correctly.",0
+74,"Requesting access to UAT server for the Internet Banking UI.
+Will deploy the new login form changes today.",0
+75,"All branches should receive an email reminder for employee cybersecurity awareness week.
+Include links to phishing prevention guides.",0
+76,"The helpdesk chatbot needs content update for loan moratorium queries.
+Please draft new responses as per policy team guidance.",0
+77,"The admin dashboard should now display all pending fund transfers in a separate tab.
+Inform QA team to recheck.",0
+78,"We need to finalize the SMS content for maintenance downtime notification.
+Send final version for approval by noon.",0
+79,"Confirm if we can move the customer feedback form data to the analytics cluster.
+It’s anonymized and safe for aggregation.",0
+80,"Prepare a quick summary of user complaints related to UPI payments last month.
+Operations head requested this for the review meeting.",0
+81,"Kindly verify that 2FA setup emails are being sent successfully.
+We’re getting fewer success confirmations than expected.",0
+82,"Please update the password reset FAQ section in the helpdesk portal.
+Add the steps for mobile and web separately.",0
+83,"The login failure rate increased slightly post deployment.
+Run a session token validation test to confirm cause.",0
+84,"We’ll conduct phishing simulation next Tuesday.
+Notify all employees through internal channels only.",0
+85,"Please share the sanitized user behavior analytics report.
+Exclude any customer identifiers before uploading.",0
+86,"Update the server downtime alert message.
+It should display estimated restoration time to users.",0
+87,"Our team should finish validating accessibility standards for the online banking app.
+Focus on text contrast and keyboard navigation.",0
+88,"Schedule a meeting with the policy team to finalize the FAQ for digital loan terms.
+Include links to RBI circular references.",0
+89,"Please email the full customer list including their CIF numbers and account balances to the regional manager.
+He needs it for monthly review.",1
+90,"Don’t forget to attach Ramesh Kumar’s PAN and Aadhaar copies in the email.
+They’re required for his salary account verification.",1
+91,"Forward the PDF containing internal salary revision details to HR group.
+Ensure no one outside the department gets it.",1
+92,"Can someone confirm the admin password for the Internet Banking backend?
+It was shared last week but I lost the note.",1
+93,"The attached Excel contains customer complaint IDs along with phone numbers.
+Please don’t share externally.",1
+94,"Share the customer loan interest calculation sheet with personal IDs.
+Policy team requested the raw data version.",1
+95,"I just received the list of employees under internal audit.
+Please keep it confidential and don’t share outside the compliance unit.",1
+96,"Please update the policy document containing internal fraud case summaries.
+Mark the customer names as per attached file.",1
+97,"I have attached the master key used for encrypting backup data.
+Please verify it matches the last month’s version.",1
+98,"Can someone provide the customer account numbers for branch 512?
+The reconciliation sheet is missing them.",1
+99,"Please send the internal training deck that includes private compliance guidelines to the vendor team.
+They requested a copy.",1
+100,"The attachment contains credit card dispute data with customer addresses.
+Ensure only compliance officers can access it.",1
+
+
+
+1,"The 'Forgot Password' link on the staging server is redirecting to the production environment. Please correct the hyperlink to point to the staging reset page.",0
+2,"Can we run a performance benchmark on the database server? The end-of-day report generation seems to be taking longer than usual this week.",0
+3,"Customer Anjali Sharma called, her account 9876543210 is locked. She's forgotten her security question answers. Please initiate a manual verification. Her date of birth is 15/03/1985.",1
+4,"Let's schedule a brainstorming session for the new UI of the funds transfer module. I have some ideas from competitor apps that we can discuss.",0
+5,"Please draft a standard operating procedure document for handling phishing attack alerts. It should include steps for customer communication and backend security checks.",0
+6,"I need to pull the complete login history for user 'rahul_verma88' for the past 90 days. He has reported unauthorized access from an IP address in a different city. His customer ID is CUST8876.",1
+7,"The marketing team needs a report on the adoption rate of our new UPI integration feature. Please provide the number of unique users who have used it since launch, broken down by week.",0
+8,"My colleague, Sameer Desai, needs his access rights for the core banking system upgraded. He is now part of the fraud analytics team. His employee ID is EMP5432.",1
+9,"Could you provide the API documentation for the third-party bill payment gateway we are integrating next month?",0
+10,"Generate a list of the most frequently asked questions from customers regarding our new credit card variants. We need to update the website's FAQ section.",0
+11,"A high-value transaction of INR 10,50,000 from account 50100123456789 to a new beneficiary was flagged by our system. Please put a temporary hold and contact the account holder, Mr. Alok Nath at +91 9820098200 for verification.",1
+12,"The session timeout for the internet banking portal is currently set to 10 minutes. Can we run a security assessment to see if it's safe to extend it to 15 minutes?",0
+13,"Prepare a training presentation on the RBI's latest guidelines on digital payment security for the new batch of customer support executives.",0
+14,"Please revoke all system access for ex-employee Megha Gupta, ID E9871. Her last working day was yesterday. This is an urgent request.",1
+15,"What are the success rates for biometric logins versus password-based logins on our mobile app for the last month?",0
+16,"I need a template for an email that notifies customers about upcoming scheduled maintenance for the internet banking platform.",0
+17,"Could you analyze the server logs from 2:00 AM to 4:00 AM last night? We saw an unusual spike in failed login attempts during that window.",0
+18,"The attached CSV file contains a list of customer accounts with dormant status for over two years. Please send them a notification email regarding the potential deactivation. The file is encrypted with password 'Dormant@2024'.",1
+19,"What's the current interest rate for a recurring deposit with a tenure of 24 months? A customer is asking.",0
+20,"The automated emailer for new account welcome kits is failing. Please check the service and restart it if necessary.",0
+21,"Please compile a list of all corporate accounts that have not updated their KYC details post the merger. The list needs to include the primary contact person's name and email address.",1
+22,"Can we A/B test two different designs for the 'Apply for Loan' button on the homepage to see which one has a better click-through rate?",0
+23,"Team, We need to update our internal security policy document. Please add a new section about the responsible use of generative AI tools and the prohibition of entering any customer data into public LLMs.",0
+24,"Customer Priya Singh (Account: 20390100004567) has requested to close her credit card ending in 8901. Please process the request and confirm via SMS to her registered number 9876512345.",1
+25,"What are the file format and size limitations for uploading documents for online KYC verification?",0
+26,"Please create a test user account with full privileges on the UAT environment. The credentials can be sent to me via the internal secure messenger.",0
+27,"There is a critical vulnerability reported in the Apache Log4j library. Can you confirm which version our servers are running and if we are affected? We need to patch this immediately if required.",0
+28,"I am investigating a complaint from Mrs. Kavita Jain (CIF ID: 876543). She claims a cheque for INR 25,000 was cleared from her account 1234500006789 without her signature. Please pull the scanned image of the cheque for verification.",1
+29,"Can you generate a report showing the number of users who have set up recurring payments in the last six months, categorized by the type of payment (e.g., utility, subscription)?",0
+30,"Let's set up a meeting with the vendor for our new firewall. I want to discuss the custom rule configurations for our internet banking traffic.",0
+31,"The SSL certificate for our corporate banking portal is expiring in 15 days. Please initiate the renewal process.",0
+32,"Please find the transaction details for a failed NEFT transfer of INR 50,000 made by customer Sameer Patil. His account number is 01120100009876 and the transaction reference ID is HDFCN12345678.",1
+33,"Could you provide a list of all active user sessions on the application server right now? We are trying to diagnose a performance issue.",0
+34,"We need to enhance the password policy. Please draft the new requirements: Minimum 12 characters Must include an uppercase letter, a lowercase letter, a number, and a special character. Cannot be one of the last 5 passwords used.",0
+35,"Please send the final list of employees who are eligible for the quarterly performance bonus to the payroll department. The list is in the 'Confidential_HR' shared drive and includes their employee IDs and bonus amounts.",1
+36,"What are our current security protocols for protecting against SQL injection attacks on the net banking login page?",0
+37,"The user satisfaction survey link is broken. Can the web team fix the redirect?",0
+38,"Generate a report on failed transactions for the past 24 hours. Please categorize them by error code. We are seeing a high number of 'Insufficient Funds' errors.",0
+39,"A customer, Mr. Rakesh Kumar, has reported losing his phone. Please immediately disable his mobile banking access. His registered mobile number is 9988776655 and his customer ID is 456789.",1
+40,"Can we add a feature to allow customers to download their account statements in PDF format, protected by a password?",0
+41,"The internal audit team has requested access logs for the 'user_data' database table for the period of Jan 1st to Jan 31st. Please provide these logs. The request is from auditor Ankit Jain (ID A564).",1
+42,"What is the standard procedure for a customer who wants to increase their daily online fund transfer limit?",0
+43,"We need to set up a new VPN profile for our remote developers. What is the process for requesting this from the IT security team?",0
+44,"Please check the credit score for applicant Meena Kumari, PAN: ABCDE1234F. She has applied for a personal loan of INR 5 lakhs.",1
+45,"Can you simulate a DDoS attack on our staging environment to test our mitigation strategies?",0
+46,"The daily data backup job for the transaction database failed last night. Please investigate the cause and re-run the backup manually. We need to ensure we have a successful backup before the start of business day.",0
+47,"Please find the home address and registered email for customer Vijay Varma (Account: 60100123456). We need to courier him a new debit card as the old one was compromised.",1
+48,"Can we implement a 'cooling-off' period for adding new beneficiaries, where fund transfers are restricted for the first 4 hours?",0
+49,"A legal notice has been received for freezing account number 30210100008765 belonging to 'ABC Trading Pvt Ltd'. Please place a total freeze on the account immediately and notify the compliance department.",1
+50,"What are the most common browsers and operating systems our customers use to access the internet banking portal? This data will help our frontend team prioritize testing.",0
+51,"The backend service that fetches credit card statements is responding with a 503 error. Can the infrastructure team please check its health?",0
+52,"Reminder: All employees must complete the mandatory 'Data Privacy and Security' e-learning module by the end of this month.",0
+53,"Please process an emergency fund transfer for our HNI client, Mr. Aditya Roy. From: 10100100001234 To: (UK Account) GB29 NWBK 6016 1331 9268 19 Amount: GBP 50,000. He has provided verbal confirmation over a recorded line. His passport number for verification is M1234567.",1
+54,"Can you share the analytics report on user navigation paths? I want to see where users typically drop off during the new savings account opening process.",0
+55,"The system should automatically log out users after 5 minutes of inactivity. Please implement this security feature in the next sprint.",0
+56,"A customer is reporting that their name is misspelled in our records. It should be 'Suresh' not 'Sures'. The customer ID is 897654. Please update the core banking system.",1
+57,"What is our disaster recovery plan in case the primary data center goes offline? I need the RPO and RTO values.",0
+58,"Could you create a heatmap of clicks on the main dashboard page? I want to see which features are used the most.",0
+59,"Please pull the account statement for Ms. Geeta Sharma for the last 6 months. Her account number is 4567890123. This is required for her home loan application processing.",1
+60,"The current multifactor authentication setup only uses SMS OTP. Let's evaluate adding support for authenticator apps like Google Authenticator for better security.",0
+61,"I need to reset the admin password for the content management system. I seem to have misplaced it. Please follow the standard protocol for this.",0
+62,"The interest calculation for floating rate home loans seems incorrect for some users after the recent policy change. Please investigate. A specific complaint is from customer ID 789012, Mr. Ravi Kant.",1
+63,"Can we get a list of all IP addresses that have accessed our internet banking platform from outside the country in the last 7 days?",0
+64,"We are planning a new feature that allows customers to temporarily block and unblock their debit cards through the app. What would be the technical requirements for this?",0
+65,"Please send the decrypted list of customer mobile numbers who have opted-in for marketing promotions to the campaign team. The list is stored in the 'secure-data/marketing' folder.",1
+66,"The system is not sending email alerts for transactions above INR 1,00,000. Please check the alert configuration.",0
+67,"Let's organize a workshop on secure coding practices for the entire development team.",0
+68,"Generate a report on the volume and value of IMPS vs NEFT vs RTGS transactions done through our platform in the last quarter.",0
+69,"Customer Sameer Verma has locked his corporate banking user ID 'sam_verma_corp'. Please unlock it. His employee ID provided for verification is SV101 from 'Verma Textiles'".,1
+70,"How does our application handle cross-site scripting (XSS) vulnerabilities? Can you point me to the relevant code libraries we use for sanitization?",0
+71,"I have received a court order to provide the transaction history of Mr. Alok Kumar for the period of April 1, 2023, to March 31, 2024. His account number is 201001234567. Please extract the data and share it with the legal team.",1
+72,"The link to download our mobile banking app from the website is pointing to an old version. Please update it to the latest release on the App Store.",0
+73,"Can you please provide the server resource utilization report (CPU, Memory, Disk I/O) for the last 7 days for our main application servers?",0
+74,"Please prepare a summary of the new features that will be released in the next version of the mobile app. This is for the customer newsletter.",0
+75,"The internal MIS portal is down. We are unable to access any of the daily reports. What is the ETA for a fix?",0
+76,"Can we integrate a chatbot to handle basic customer queries like balance inquiry and transaction history on the website?",0
+77,"The 'View Statement' feature is throwing a '500 Internal Server Error' for some users. Please investigate the application logs. I am forwarding the details of an affected user, Rina Patel, with her permission. Her user ID is 'rina_p_78'.",1
+78,"Can you provide a list of all third-party libraries and their versions currently used in our production internet banking application?",0
+79,"What's the process for a customer to update their registered mobile number online? Are there any security checks involved?",0
+80,"Please set up an alert that notifies the security team whenever a user's password is changed.",0
+81,"A customer wants to redeem their credit card reward points. The system is showing an error. Customer Name: Arjun Kapoor Card last 4 digits: 5678 Please check the backend logs and assist.",1
+82,"We need to conduct a penetration test on the new API endpoints before they are deployed to production. Please schedule it with the security vendor.",0
+83,"Generate a report on customers who have not logged into their internet banking accounts in the last 12 months.",0
+84,"The daily ATM reconciliation report has a discrepancy. The data from our system does not match the report from the vendor. Can you please look into it?",0
+85,"Please grant read-only access to the transaction database to our new data analyst, Priya Sharma (Emp ID: DA987). She will be working on building fraud detection models.",1
+86,"The login page is loading very slowly. Can we check the performance of the authentication service?",0
+87,"Can you draft a security advisory for customers on how to protect themselves from vishing (voice phishing) scams?",0
+88,"Please check the status of cheque number 123456. The customer claims it has not been credited to their account yet.",0
+89,"A customer, Neha Gupta, has reported an unauthorized transaction of INR 15,000 on her credit card (ending in 1234). The transaction was made at 'www.random-website.com'. Please raise a dispute and initiate a chargeback.",1
+90,"What are the steps to set up a standing instruction for a recurring bill payment through the internet banking portal?",0
+91,"The system is sending duplicate transaction confirmation SMS messages to some customers. This needs to be fixed urgently as it's causing confusion. Please check the SMS gateway integration.",0
+92,"Please provide the SWIFT code for our main branch in Bangalore for an inward remittance.,0
+93,"I need the complete personal details of our customer Mr. Sunil Khanna (A/C: 301001234567) including his PAN and Aadhaar number for a high-priority compliance check.",1
+94,"Can we add a feature to show personalized loan offers to customers on their dashboard based on their transaction history and credit score?",0
+95,"We need to run a drill for our business continuity plan this weekend. Please coordinate with the IT and operations teams.",0
+96,"The system is not allowing customers to set a password that contains the '&' symbol. Please check the validation logic. This should be allowed as per our password policy.",0
+97,"Our internal strategy document, 'Digital Vision 2025', has been leaked online. I've traced the initial leak to an email sent from an internal account. The suspect is an employee in the marketing department. I need the email server logs for all outgoing mails from that department between 10 AM and 2 PM yesterday.",1
+98,"Could you please increase the logging level for the authentication module to 'DEBUG' for the next hour? We are trying to replicate a complex login issue.",0
+99,"Can you share the best practices for creating a strong, memorable password? I am creating a new security awareness poster.",0
+100,"Please block the debit card for customer Anita Desai immediately. Her card number is 4567 1234 8765 4321. She has reported it stolen.",1
+101,"Our quarterly cybersecurity report is due next week. Can you compile a summary of the latest phishing techniques targeting the financial sector? Please include examples and recommend mitigation strategies for our customer awareness campaigns.",0
+102,"I am drafting a proposal for a new feature that will allow customers to set up recurring investments in mutual funds directly from their savings accounts. Can you provide data on the average monthly investable surplus for our customers in the 25-35 age bracket?",0
+103,"A customer, Mr. Alok Verma, has passed away. His son has submitted a death certificate and is requesting to close the account (A/C: 4567890123) and transfer the balance to his own account (A/C: 9876543210). Please verify the submitted documents (attached) and process the request as per our policy on deceased claims. The son's name is Rohan Verma.",1
+104,"The marketing team is planning a campaign for our new NRI banking services. Can you generate a list of countries with the highest number of Indian expatriates? Also, provide a brief overview of the key financial regulations in those countries related to foreign remittances.",0
+105,"We are experiencing a high volume of calls to our customer support center regarding failed UPI transactions. Please analyze the transaction logs for the past 48 hours and identify the root cause. Is it a problem with our systems, the NPCI gateway, or a specific partner bank?",0
+106,"Please generate a secure, one-time use password for a corporate client who needs to access our treasury management portal. The user is Mr. Rakesh Sharma from 'Sharma Textiles'. He will be calling our support line to retrieve the password. The case ID is CUST-CORP-5678.",1
+107,"Can you provide a comparative analysis of the top 5 performing ELSS mutual funds over the last 3 years? I need this for a customer who is looking to invest for tax-saving purposes.",0
+108,"We need to update our anti-money laundering (AML) policy to incorporate the latest FATF recommendations. Can you summarize the key changes and highlight the sections in our current policy that will need to be revised?",0
+109,"A customer has reported that their credit card was used for a fraudulent transaction at an online merchant they don't recognize. The transaction amount is INR 25,000. Customer Name: Sunita Menon Card Number: 5123 4567 8901 2345 Please initiate the chargeback process immediately and issue a new card.",1
+110,"What are the regulatory requirements for offering wealth management services to retail customers in India? I am preparing a presentation for the senior management on our proposed expansion into this area.",0
+111,"I am a customer. I recently used my debit card at an ATM, but the cash was not dispensed. However, the amount has been debited from my account. My account number is 1234567890. The transaction happened on October 25th at around 3:00 PM at the ATM located at MG Road, Bangalore. Please investigate and reverse the transaction.",1
+112,"Our bank is considering launching a co-branded credit card with a major airline. Can you provide a report on the key features and benefits of similar co-branded cards offered by our competitors?",0
+113,"The internal audit team has flagged a potential conflict of interest. An employee in the loan processing department has approved a significant loan for a company where their spouse is a director. Employee Name: Sameer Desai Please provide me with all the loan application documents and the employee's declaration of interests.",1
+114,"Can you provide me with a script for a customer service call where a customer is angry about a late fee charged on their credit card? The script should include de-escalation techniques and offer a possible resolution.",0
+115,"We are planning to open a new branch in a tier-2 city. Can you provide demographic data for the city of Jaipur, including average income levels, population density, and the number of competing bank branches in the area?",0
+116,"A customer is on the line and has forgotten their internet banking password. I have verified their identity using their date of birth and mother's maiden name. Please reset the password for customer ID 'PRIYA_S88'. Her registered mobile number is 9876512345.",1
+117,"What are the pros and cons of using a blockchain-based system for trade finance documentation? I am researching this for a potential pilot project.",0
+118,"The RBI has announced an increase in the repo rate. Can you explain the likely impact of this on our bank's lending and deposit rates?",0
+119,"Please provide me with the contact details of our relationship manager for 'Gupta & Sons', a high-value corporate client. I need to discuss their foreign exchange requirements for an upcoming import shipment. The company's account number is CORP-GS-1234.",1
+120,"I am a customer. I want to apply for a pre-approved personal loan that I see on my internet banking dashboard. Can you guide me through the application process and tell me what documents I will need to submit?",0
+121,"Our bank's mobile app has a 3.5-star rating on the Google Play Store. Can you analyze the user reviews and identify the most common complaints and suggestions for improvement?",0
+122,"We have received a request from the income tax department for the account statements of a customer for the past 7 financial years. Customer Name: Anil Sharma PAN: ABCDE1234F Please provide the requested data in a password-protected file and share it only with the compliance department.",1
+123,"Can you provide a template for a loan agreement for a small business loan? The template should include all the standard clauses and legal disclaimers.",0
+124,"I am a bank employee. My salary for last month has not been credited yet. My employee ID is E12345. Can you please check with the payroll department and let me know the status?",1
+125,"What are the security best practices for developing and deploying cloud-native banking applications? I am preparing for a security audit of our new digital banking platform.",0
+126,"I am a customer. I have lost my wallet which contained my credit and debit cards. Please block all my cards immediately. My name is Rahul Kumar and my registered mobile number is 9988776655.",1
+127,"Can you explain the concept of 'Net Interest Margin' and how it is calculated? Also, provide the NIM for our bank and our top 3 competitors for the last quarter.",0
+128,"We need to send a reminder to all our corporate clients whose KYC is due for renewal in the next 30 days. Please generate a list of these clients along with the name and email address of their primary contact person.",1
+129,"I am a customer. I want to know the current status of my home loan application. My application reference number is HL-56789.",0
+130,"Can you provide a list of all the active vendors and third-party service providers for our bank, along with the services they provide and the expiry date of their contracts?",0
+131,"Please find the attached audio file of a threatening call received at our branch. The caller has threatened to harm an employee, Megha Sharma. Please transcribe the call and forward it to the security team and the local police.",1
+132,"I am a customer. I am trying to pay my electricity bill through your internet banking portal, but I am getting an error message. The biller is 'Reliance Energy'. Can you please check if there is a problem with the bill payment gateway?",0
+133,"We are organizing a town hall meeting for all employees next week. Can you please book the main auditorium and send a calendar invite to all staff members? The agenda will be a discussion of the quarterly business performance.",0
+134,"A customer has reported that they have been a victim of a SIM swap fraud. The fraudsters have gained access to their bank account and have made several unauthorized transactions. Customer Name: Rajesh Gupta Account Number: 201001234567 Please provide a list of all transactions from this account in the last 24 hours.",1
+135,"Can you provide a summary of the key recommendations from the Nandan Nilekani committee on deepening digital payments in India?",0
+136,"I am a bank employee in the HR department. I need to process the final settlement for an employee who has resigned. Employee Name: Anjali Singh Employee ID: E54321 Please provide me with her leave balance and any outstanding dues.",1
+137,"What are the different types of cyber insurance policies available for banks? I am preparing a risk assessment report for our board of directors.",0
+1s38,"I am a customer. I have received an email claiming to be from your bank, asking me to update my personal details by clicking on a link. The email looks suspicious. Can you please verify if it is a legitimate communication from your bank?",0
+139,"We have received a request from a law enforcement agency to freeze the account of a customer who is under investigation for illegal activities. Account Number: 301001234567 Please place a debit freeze on the account with immediate effect.",1
+140,"Can you provide a list of the most common vulnerabilities found in mobile banking applications and how to mitigate them?",0
+141,"I am a bank employee. I am unable to access the internal HR portal. I need to download my payslip. Can you please reset my password for the HR portal? My employee ID is E98765.",1
+142,"What are the regulatory guidelines for banks on outsourcing their IT services to third-party vendors?",0
+143,"I am a customer. I want to update my communication address. My account number is 401001234567. My new address is 123, ABC Street, New Delhi - 110001.",1
+144,"Can you provide a report on the performance of our bank's stock on the National Stock Exchange over the last 6 months?",0
+145,"We need to conduct a surprise audit of one of our branches. Please provide me with the name of a branch with a high volume of cash transactions and a recent history of operational errors.",1
+146,"I am a customer. I have a fixed deposit that is maturing next week. I would like to renew it for another year. Can I do this online, or do I need to visit the branch?",0
+147,"Please provide me with a list of all employees who have not completed the mandatory annual compliance training. I need to send them a reminder.",1
+148,"What are the key differences between the UPI, IMPS, and NEFT payment systems in India?",0
+149,"A customer has reported that they have received a counterfeit banknote from one of our ATMs. Customer Name: Rina Sharma ATM Location: Connaught Place, New Delhi Please provide the CCTV footage of the ATM from the time of the transaction.",1
+150,"Can you provide a list of all the open job positions at our bank and the job descriptions for each role?",0
+151,"I am a bank employee. I need to apply for a personal loan. What is the process for employees and are there any preferential interest rates for us?",0
+152,"We have received a request from a customer to stop the payment of a cheque. Cheque Number: 123456 Account Number: 501001234567 Please process the request immediately.",1
+153,"What are the guidelines for a customer who wants to nominate a beneficiary for their savings account?",0
+154,"I am a relationship manager. I need to prepare a presentation for a potential HNI client. Can you provide me with a list of our premium banking services and their features?",0
+155,"Please provide me with the home address of our customer, Mr. Vijay Kumar. He has won a prize in our promotional lucky draw and we need to send it to him. His account number is 601001234567.",1
+156,"Can you explain the concept of 'Basel III' norms and their importance for the banking sector?",0
+157,"I am a customer. I am going on an overseas trip and I would like to activate international transactions on my debit card. Can you please tell me how to do this?",0
+158,"We have noticed a series of suspicious transactions from a particular IP address. The transactions are all high-value transfers to multiple accounts in a short period of time. IP Address: 123.45.67.89 Please block this IP address from accessing our internet banking platform.",1
+159,"What are the best practices for a bank to use social media for marketing and customer engagement?",0
+160,"I am a bank employee. I am feeling unwell and will not be able to come to the office today. Please inform my manager, Mr. Anil Kapoor, and mark me on sick leave. My employee ID is E65432.",1
+161,"Can you provide a list of all the unclaimed bank accounts that have been inactive for more than 10 years? We need to transfer the funds to the RBI's Depositor Education and Awareness Fund.",1
+162,"What is the process for a customer to report a lost or stolen mobile phone, if they have our mobile banking app installed on it?",0
+163,"I am a customer. I am trying to register for internet banking, but it says my mobile number is not registered with the bank. Can you please check and update my mobile number? My account number is 701001234567 and my mobile number is 9876543210.",1
+164,"Can you provide a report on the growth of digital payments in India over the last 5 years?",0
+165,"We have received a complaint from a customer about the rude behavior of one of our employees at the branch. Employee Name: Rakesh Sharma Branch: MG Road, Bangalore Please provide me with the employee's performance appraisal records for the last year.",1
+166,"I am a customer. I want to close my savings account with your bank. What is the procedure for this and are there any charges?",0
+1ax67,"Please provide me with the personal email address of our CEO. I need to send him a confidential report.",1
+168,"What are the key features of the 'Pradhan Mantri Jan Dhan Yojana' and what has been its impact on financial inclusion in India?",0
+169,"A customer has requested for a loan against their fixed deposit. FD Account Number: FD-12345 Loan Amount: INR 5,00,000 Please process the request after verifying the customer's signature.",1
+170,"Can you provide a list of all the ATMs of our bank in the city of Mumbai that have a cash deposit facility?",0
+171,"We have detected a malware on the computer of one of our employees. The employee has access to sensitive customer data. Employee Name: Priya Sharma Please immediately revoke all her system access and quarantine her computer.",1
+172,"What are the different types of risks that a bank is exposed to, and how can they be managed?",0
+173,"I am a customer. I have received an SMS stating that a new debit card has been issued to me, but I have not requested for one. My account number is 801001234567. Please investigate this.",1
+174,"Can you explain the role of the RBI as the regulator of the Indian banking system?",0
+175,"Please provide me with a list of all the employees who are celebrating their work anniversary this month. I would like to send them a congratulatory email.",0
+176,"A customer has reported that their signature has been forged on a cheque, and a large amount has been withdrawn from their account. Cheque Number: 654321 Account Number: 901001234567 Please provide the scanned image of the cheque and initiate a fraud investigation.",1
+177,"What are the benefits of having a demat account and how can a customer open one with our bank?",0
+178,"I am a bank employee. I need to access the customer relationship management (CRM) system to update a customer's contact details. What are the login credentials?",1
+179,"Can you provide a list of all the nostro and vostro accounts that our bank holds with other banks?",0
+180,"A customer wants to avail of our bank's locker facility. What are the charges and the documents required for the same?",0
+181,"We have received a request from a customer to update their name in our records after marriage. Old Name: Priya Sharma New Name: Priya Gupta Please find the attached marriage certificate and process the request.",1
+182,"What are the key provisions of the 'Banking Regulation Act, 1949' in India?",0
+183,"I am a customer. I want to transfer my home loan from another bank to your bank. What is the process for this and what are the interest rates you offer?",0
+184,"Please provide me with the mobile number of our branch manager, Mr. Rajesh Kumar. I need to discuss an urgent customer issue with him.",1
+185,"Can you provide a list of all the holidays for the current year when our bank will be closed?",0
+186,"A customer has reported that they have not received their credit card statement for the last two months. Customer Name: Sameer Verma Credit Card Number: 4123 4567 8901 2345 Please check if the statements were dispatched and provide the tracking details.",1
+187,"What is the difference between a 'current account' and a 'savings account'?",0
+188,"I am a bank employee. I want to report a case of internal fraud. I have witnessed a colleague siphoning off small amounts of money from dormant accounts. Who should I report this to, and can I remain anonymous?",1
+189,"Can you provide a summary of the latest trends in the Indian banking industry?",0
+190,"I am a customer. I have a joint account with my spouse. I want to know if both of us need to be present at the branch to close the account.",0
+191,"We have received an anonymous tip-off that one of our employees is involved in money laundering activities. Employee Name: Ankit Sharma Please monitor all the transactions in his personal and family members' accounts.",1
+192,"What are the key features of the 'Sovereign Gold Bond' scheme and what are the benefits of investing in it?",0
+193,"I am a customer. I have a complaint against one of your employees for mis-selling me an insurance policy. I want to register a formal grievance. What is the procedure for this?",0
+194,"Please provide me with the list of all the employees who have been issued a corporate credit card, along with their credit limits.",1
+195,"What are the different types of loans that are offered to farmers and agricultural businesses by our bank?",0
+196,"A customer is unable to log in to their internet banking account and has been locked out after multiple failed attempts. Customer ID: 'ANJALI_M' Please unlock her account and assist her with resetting her password.",1
+197,"Can you provide a list of all the microfinance institutions (MFIs) that our bank has partnered with for priority sector lending?",0
+198,"I am a bank employee. I have been offered a job at a competing bank. I would like to resign from my current position. What is the notice period I need to serve?",1
+199,"What are the key challenges that the Indian banking sector is currently facing?",0
+200,"Please provide me with a list of all the customers who have a credit score of over 800. We want to offer them a pre-approved premium credit card.",1
+201,"Draft a professional but firm email to a corporate client whose account has been frozen due to a court order. The email should not disclose the specifics of the case but should inform them that all transactions are currently blocked and they need to contact their legal counsel. Mention that the bank is legally bound to comply with the directive. The client is 'ABC Corp' and the account ends in 5678.",0
+202,"I'm a new employee in the compliance team. Can you create a step-by-step guide on how to conduct a 'Politically Exposed Person' (PEP) check using our internal 'Know Your Customer' software? Include screenshots and explain what to do if a potential match is found.",0
+203,"A customer has reported receiving a phishing email that appears to originate from our bank's domain. The email contains a link to a fake login page. The customer's email address is customer@example.com. Please analyze the email headers (attached as a .eml file) to trace the origin of the email and block the source IP address.",1
+204,"I am preparing a report on our bank's ESG (Environmental, Social, and Governance) initiatives. Can you provide data on our green financing portfolio, including the total amount disbursed for renewable energy projects in the last financial year?",0
+205,"We are testing a new AI-powered chatbot for our website. Can you generate 20 different customer queries related to home loans for the chatbot to handle? The queries should range from simple questions about interest rates to more complex questions about eligibility criteria and documentation.",0
+206,"An internal investigation has revealed that an employee has been using their corporate credit card for personal expenses. Employee Name: Rakesh Mehra Employee ID: E78901 Please provide a detailed statement of his corporate credit card for the past 6 months.",1
+207,"I am a customer. I have recently moved to a new city and I would like to transfer my account to a branch in my new location. My account number is 9876543210. Can you please tell me the procedure for an inter-city account transfer?",0
+208,"The audit committee has requested a report on all user access reviews conducted in the past year. The report should include the number of access rights reviewed, the number of discrepancies found, and the remediation actions taken.",0
+209,"A customer has reported that they have been a victim of a technical support scam. The scammers convinced them to install a remote access tool on their computer and then stole their internet banking credentials. Customer Name: Mrs. Sharma Please provide a log of all IP addresses that have accessed her internet banking account in the past 48 hours.",1
+210,"I am a financial analyst. I am building a model to predict the likelihood of a customer defaulting on a personal loan. Can you provide me with an anonymized dataset of our past personal loan customers, including their demographic information, credit score, loan amount, and default status?",1
+211,"Can you create a checklist for our branch staff to follow when opening a new account for a minor? The checklist should ensure that all regulatory requirements are met, such as obtaining the guardian's consent and verifying the minor's date of birth.",0
+212,"We have received a request from a customer to close their demat account. Demat Account Number: 1234567890123456 Please process the closure request and transfer the securities to the customer's other demat account.",1
+213,"I am a customer. I want to know if your bank offers education loans for studying abroad. If so, what is the maximum loan amount, the interest rate, and the repayment period?",0
+214,"The business continuity plan needs to be updated. Can you simulate a scenario where our primary data center is unavailable and outline the steps that need to be taken to failover to our disaster recovery site?",0
+215,"A customer has reported that their debit card has been cloned and used for unauthorized transactions at a merchant in a different city. Customer Name: Anjali Verma Please provide the merchant's name and location for all transactions made on her card in the last 24 hours.",1
+216,"I am writing a blog post for our bank's website on 'How to protect yourself from online banking fraud'. Can you provide me with some tips and best practices to include in the blog post?",0
+217,"We are launching a new credit card with airport lounge access as a key feature. Can you provide a list of all the airports in India that have a lounge that our customers can access with this card?",0
+218,"A customer has reported that their name is misspelled on their credit card. Customer Name (as on card): RAHUL SHARMA Correct Name: RAHUL SHARMAA Please issue a replacement card with the correct name.",1
+219,"I am a student. I want to open a savings account with your bank. What are the documents that I need to provide?",0
+220,"We need to send a notification to all our customers who have not yet updated their PAN card details in their account. The notification should inform them that their account may be frozen if they do not update their PAN by the deadline.",0
+221,"A customer has reported that they have received a fake job offer from our bank. The offer letter asks for a security deposit to be paid. Please draft a public advisory warning people about this scam and clarifying that our bank does not ask for any payment during the recruitment process.",0
+222,"I am a bank employee. I am going on maternity leave for 6 months. Please process my leave application and initiate the process for my temporary replacement. My employee ID is E34567.",1
+223,"What are the key features of the 'Sukanya Samriddhi Yojana' and is it a good investment option for a girl child?",0
+224,"We have received a request from a customer to issue a new cheque book. Account Number: 1122334455 Please process the request and dispatch the cheque book to the customer's registered address.",1
+225,"I am a customer. I want to know the IFSC code for your branch in Chennai. I need it to receive a fund transfer.",0
+226,"We need to conduct a training session for our employees on how to identify and report suspicious transactions. Can you create a presentation with case studies of real-life money laundering schemes?",0
+227,"A customer has reported that they are unable to use their debit card for online transactions. Customer Name: Sameer Patel Please check if e-commerce transactions are enabled on his card.",1
+228,"I am a senior citizen. I want to know if your bank offers any special services or benefits for senior citizens.",0
+229,"We have received a complaint from a customer that their loan application was rejected without a valid reason. Application Number: PL-98765 Please provide the reason for the rejection of the loan application.",1
+230,"What are the different types of insurance products that are offered by our bank, such as life insurance, health insurance, and general insurance?",0
+231,"I am a bank employee. I have been selected for a promotion and I need to relocate to a different city. Does our bank have a relocation policy and what are the benefits it offers?",1
+232,"Can you provide a list of all the holidays in the state of West Bengal for the current calendar year?",0
+233,"We have received a request from a customer to provide a 'No Objection Certificate' (NOC) for their car loan, as they have fully repaid the loan. Loan Account Number: CL-54321 Please issue the NOC and send it to the customer.",1
+234,"I am a customer. I want to know the exchange rates for converting Indian Rupees to US Dollars and Euros.",0
+235,"We need to send a monthly account statement to all our credit card customers. The statement should be password-protected and the password should be a combination of the customer's date of birth and the last 4 digits of their credit card number.",1
+236,"What are the key recommendations of the P. J. Nayak Committee on the governance of bank boards in India?",0
+237,"I am a bank employee. I have recently gotten married and I need to update my marital status and my spouse's name in the HR records. My employee ID is E87654.",1
+238,"Can you provide a list of all the startups that have been funded by our bank's venture capital arm?",0
+239,"We have received a request from a customer to link their Aadhaar number to their bank account. Account Number: 2233445566 Aadhaar Number: 1234 5678 9012 Please process the request.",1
+240,"I am a customer. I am not satisfied with the service I received at your branch. I want to escalate the issue to the banking ombudsman. Can you provide me with the contact details of the ombudsman?",0
+241,"We need to file a police complaint against a customer who has submitted fake documents to obtain a personal loan. Customer Name: Vijay Singh Please provide all the documents submitted by the customer, including the forged salary slips and bank statements.",1
+242,"What are the key features of the 'National Pension System' (NPS) and how can a customer open an NPS account with our bank?",0
+243,"I am a bank employee. I am facing some personal issues and I would like to avail of the employee assistance program for counseling. Is the service confidential?",1
+244,"Can you provide a list of all the corporate social responsibility (CSR) activities that our bank has undertaken in the last financial year?",0
+245,"We have received a request from a customer to cancel a recurring payment that they have set up for a subscription service. Customer Name: Rina Desai Please cancel the standing instruction for the payment to 'Netflix'.",1
+246,"I am a customer. I want to know if your bank has a mobile app for trading in stocks and securities.",0
+247,"We need to send a legal notice to a customer who has defaulted on their home loan repayments. Customer Name: Alok Nath Loan Account Number: HL-12345 Please provide his registered address.",1
+248,"What are the different types of corporate banking services that our bank offers, such as cash management, trade finance, and treasury services?",0
+249,"I am a bank employee. I am interested in applying for an internal job posting in the risk management department. Can you please provide me with the job description and the eligibility criteria?",0
+250,"Please provide me with a list of all the employees who have access to the SWIFT messaging system. We need to conduct a security review of the system.",1
+251,"I am a customer. I have a query regarding a transaction in my credit card statement. The transaction is for INR 5000 at a merchant called 'Global Imports'. I do not recall making this transaction. Please provide more details about the merchant.",0
+252,"We are planning to launch a new marketing campaign to promote our car loan products. Can you provide a list of all the car dealerships in the city of Pune that we have a tie-up with?",0
+253,"A customer has reported that they have been overcharged on the interest for their personal loan. Loan Account Number: PL-67890 Please review the interest calculation and provide a clarification to the customer.",1
+254,"I am a financial journalist. I am writing an article on the Indian banking sector. Can you provide me with the latest financial results of your bank, including the net profit, gross NPA, and capital adequacy ratio?",0
+255,"We need to send a reminder to all our customers who have taken a loan against property to submit their property insurance policy for the current year.",0
+256,"A customer has reported that their credit card has been charged for a purchase they did not make. The customer claims they were in a different city at the time of the transaction. Customer Name: Megha Gupta Please provide the location of the point-of-sale terminal where the transaction was made.",1
+257,"I am a student pursuing a course in banking and finance. I am looking for an internship at your bank. What is the application process for internships?",0
+258,"We need to generate a report of all the foreign currency transactions that have been processed by our bank in the last 24 hours. The report should include the currency, the amount, and the purpose of the transaction.",0
+259,"A customer has reported that they have received a suspicious SMS asking them to update their KYC details by clicking on a link. The SMS appears to be from our bank. Customer's Mobile Number: 9876512345 Please investigate the source of the SMS and block the sender.",1
+260,"I am a customer. I want to know if your bank offers a recurring deposit that allows for flexible monthly installments.",0
+261,"We need to provide the details of a customer's account to a credit information company (such as CIBIL) as they have defaulted on their loan. Customer Name: Rajesh Kumar Loan Account Number: HL-54321 Please provide the outstanding loan amount and the number of days the loan has been overdue.",1
+262,"I am a researcher studying the impact of demonetization on the Indian economy. Can you provide me with data on the aomunt of old currency notes that were deposited in your bank during the demonetization period?",0
+263,"We have received a request from a customer to change their registered mobile number for their internet banking account. Old Mobile Number: 9988776655 New Mobile Number: 9876543210 Please process the request after verifying the customer's identity.",1
+264,"I am a customer. I have a question about the 'Positive Pay System' for cheques. Can you explain how it works?",0
+265,"We need to send a notification to all our customers who have not used their debit card for more than a year. The notification should inform them that their card will be deactivated if they do not use it within the next 30 days.",0
+266,"A customer has reported that their account has been debited for a failed ATM transaction at another bank's ATM. Customer Name: Sunil Verma Please raise a dispute with the other bank and get the transaction reversed.",1
+267,"I am a business owner. I am looking for a point-of-sale (POS) terminal for my retail store. What are the different types of POS terminals that your bank offers and what are the charges?",0
+268,"We have received a request from a customer to issue a duplicate debit card as they have lost their original card. Account Number: 3344556677 Please issue a new card and block the old one.",1
+269,"I am a customer. I want to know if I can use my credit card to withdraw cash from an ATM. If so, what are the charges?",0
+270,"We need to conduct a background check on a new employee who will be joining our treasury department. Employee Name: Ankit Jain Please verify his educational qualifications and his previous employment records.",1
+271,"What are the key features of the 'Goods and Services Tax' (GST) and how has it impacted the Indian economy?",0
+272,"I am a bank employee in the IT department. I have noticed a security vulnerability in our internet banking application. How should I report this and who should I report it to?",1
+273,"Can you provide a list of all the mutual funds that have been rated 5 stars by CRISIL?",0
+274,"A customer has reported that they are being harassed by our loan recovery agents. Loan Account Number: PL-87654 Please investigate the matter and take appropriate action against the agents.",1
+275,"I am a customer. I want to know if your bank offers a health insurance policy that covers pre-existing diseases.",0
+276,"We need to send a report to the RBI with the details of all the cash transactions above INR 10 lakhs that have been done at our branches in the last month.",1
+277,"What are the key differences between a 'public sector bank' and a 'private sector bank' in India?",0
+278,"I am a bank employee. I am getting married next month and I would like to apply for a marriage loan. What is the maximum amount I can avail and what is the interest rate?",1
+279,"Can you provide a list of all the educational institutions in India that are approved for our student loan scheme?",0
+280,"A customer has reported that they have lost the key to their bank locker. Locker Number: 123 Branch: MG Road, Bangalore What is the procedure for getting a new key?",1
+281,"I am a customer. I am planning to buy a new car. Can you tell me the current interest rates for car loans and the documents required to apply for one?",0
+282,"We have received a request from a customer to provide them with a list of all the direct debits that are linked to their savings account. Account Number: 4455667788 Please provide the list to the customer.",1
+283,"What are the key features of the 'Atal Pension Yojana' and who is eligible to enroll in it?",0
+284,"I am a bank employee. I have been accused of leaking confidential customer information to a third party. This is a false accusation. What is the process for appealing against this accusation?",1
+285,"Can you provide a list of all the foreign banks that have a branch in India?",0
+286,"We have received a request from a customer to provide them with a certificate of interest paid on their home loan for the last financial year. Loan Account Number: HL-98765 Please provide the certificate to the customer.",1
+287,"I am a customer. I am looking for a safe investment option with guaranteed returns. Can you suggest some options?",0
+288,"We need to send a notice to a customer who has been consistently maintaining a low balance in their savings account, which is below the minimum required balance. Account Number: 5566778899 The notice should inform them that they will be charged a penalty if they do not maintain the minimum balance.",1
+289,"What are the key principles of Islamic banking and how is it different from conventional banking?",0
+290,"I am a bank employee. I have been a victim of workplace harassment. Who should I report this to and what is the process for filing a complaint?",1
+291,"Can you provide a list of all the public provident fund (PPF) schemes that are offered by our bank?",0
+292,"We have received a request from a customer to provide them with the transaction history of their account for the past 5 years. Account Number: 6677889900 Please provide the transaction history to the customer.",1
+293,"I am a customer. I am looking for a credit card that offers good rewards on online shopping. Can you suggest some options?",0
+294,"We need to send a reminder to all our employees to update their personal details in the HR portal, such as their address, phone number, and emergency contact details.",0
+295,"A customer has reported that their credit card has been charged for a recurring subscription that they had cancelled a month ago. Customer Name: Priya Singh Please investigate the matter and get the transaction reversed.",1
+296,"What are the key features of the 'Reverse Mortgage' scheme for senior citizens?",0
+297,"I am a bank employee. I am going through a personal financial crisis. Does our bank offer any financial assistance or counseling to employees in such situations?",1
+298,"Can you provide a list of all the stock brokers that our bank has a tie-up with for our 3-in-1 trading accounts?",0
+299,"We have received a request from a customer to provide them with a copy of the loan agreement for their personal loan. Loan Account Number: PL-12345 Please provide the loan agreement to the customer.",1
+300,"I am a customer. I am looking for a savings account that offers a high interest rate and a zero minimum balance requirement. Can you suggest some options?",0
+
+
+
+1,"Hello,
+I'm reviewing the customer's login issue.
+Please guide me on steps to reset their online banking session timeout and describe how to verify device registration.",0
+2,"Hi team,
+Please prepare a template email explaining how customers can enable two-factor authentication for their internet banking and list supported methods.",0
+3,"Dear Fraud Unit,
+Customer reports unauthorized mobile app access.
+Please advise on account freeze policy and next steps for investigation (no account details provided).",0
+4,"Hello,
+Requesting instructions for linking a merchant payment gateway to corporate internet banking—describe required documents and API endpoints (high-level).",0
+5,"Support,
+Create an internal checklist to verify identity when customers call about failed NEFT transactions (do not include sensitive data in scripts).",0
+6,"Team,
+Draft an FAQ entry that explains scheduled payments and how customers can cancel them via internet banking.",0
+7,"Hello,
+Need step-by-step guide for unlocking a user ID after three failed login attempts (mention policy but not customer identifiers).",0
+8,"Ops,
+Please summarize rate-limiting thresholds for concurrent sessions per customer and how to log and monitor excessive attempts.",0
+9,"Colleagues,
+Outline the process to escalate a disputed merchant charge to the dispute resolution team; include timelines and required evidence.",0
+10,"Helpdesk,
+Provide a standard script to explain to customers why their credit card payment failed due to insufficient funds, without giving account specifics.",0
+11,"Team,
+Prepare a knowledge base article describing the encryption standards used in our internet banking platform and certificate rotation policy.",0
+12,"Hi,
+I need an internal checklist for onboarding corporate clients to internet banking, focusing on role-based access controls (no client data).",0
+13,"Support,
+Draft a polite response to customers asking why their login shows 'suspicious activity detected' and what steps to take to secure their account.",0
+14,"Ops,
+Explain how to interpret login audit logs and the fields we should monitor to detect credential stuffing attempts (generic examples).",0
+15,"Team,
+Create a training module outline for staff handling calls about password resets, highlighting when to transfer to escalation.",0
+16,"Hello,
+We need to update SMS/Email templates for transaction alerts; provide wording that avoids exposing full card or account numbers.",0
+17,"Colleagues,
+Requesting a template for reporting a phishing URL that impersonates our internet banking portal—include steps to block and report.",0
+18,"Support,
+Write a short guide for customers on setting transaction limits via the internet banking portal and how limits affect transactions.",0
+19,"Team,
+I need to document session timeout policy for corporate users and the recommended secure timeout values.",0
+20,"Helpdesk,
+Compose an email to notify customers about scheduled maintenance for internet banking with expected downtime and workarounds.",0
+21,"Operations,
+Please provide a high-level checklist for performing a security patch roll-out to the online banking front-end during off-hours.",0
+22,"Support,
+Draft a canned reply that explains how to download account statements for the last 12 months using the portal (no account data).",0
+23,"Fraud,
+Advise on red flags to look for in wire transfer requests that could indicate social engineering; provide sample patterns (no PII).",0
+24,"Team,
+Describe our KPIs for customer support in internet banking: average response time, resolution rate, and first-call resolution targets.",0
+25,"IT,
+Explain how to onboard a new authentication provider (OAuth/OpenID Connect) for our internet banking system at a high level.",0
+26,"Support,
+Prepare guidance for customers on how to add a beneficiary safely and what verification steps they will see (without revealing example account numbers).",0
+27,"Security,
+List recommended logging retention periods for access logs to support incident investigations without storing full PANs or passwords.",0
+28,"Team,
+I need a stepwise incident response runbook for suspected credential compromise, starting from account suspension to customer notification templates.",0
+29,"Helpdesk,
+Create template messages for reminding customers to update their contact information on file; emphasize the importance for recovery.",0
+30,"Operations,
+Provide a policy summary for allowed third-party integrations with internet banking, including security requirements and approval flow.",0
+31,"Support,
+Write instructions to help customers enable biometric login on supported mobile devices; avoid storing biometric data details.",0
+32,"Colleagues,
+Summarize the procedure to validate PAN submission during KYC upload, describing accepted document types (no PAN numbers).",0
+33,"IT,
+Explain how to implement rate limiting on payment authorization API endpoints to prevent abuse (technical steps, no customer data).",0
+34,"Security,
+Draft a one-paragraph blurb for the website about our commitment to customer privacy and encryption practices.",0
+35,"Helpdesk,
+Provide a script to politely request more information from customers reporting missing funds—ask for transaction date and amount (don't ask for passwords).",0
+36,"Team,
+Prepare training notes on how to redact sensitive data when sharing logs with third parties for debugging.",0
+37,"Support,
+Create a communication template for when a customer's debit card has been temporarily blocked for suspected fraud — exclude card numbers.",0
+38,"Operations,
+Outline the required permissions and steps to close a dormant internet banking user account upon customer request (no identifiers).",0
+39,"Hello,
+Please transfer INR 50,000 from customer's savings account to vendor as per request.
+Account Holder: Rajesh Kumar
+Account No: 123456789012
+IFSC: SBIN0001234
+Please confirm when done.",1
+40,"Hi,
+Customer called and provided OTP for verification. Please proceed with resetting his login password.
+Customer: S. Verma
+Registered Mobile: +91-9876543210
+OTP: 482905
+New Password to set: SecurePass!23",1
+41,"Fraud Team,
+Escalate this transaction: Beneficiary A/C: 998877665544
+Beneficiary Name: Meera Singh
+Transaction ID: TXN-20251005-7788
+Amount: ₹1,25,000
+Customer's DOB: 03/02/1985",1
+42,"Support,
+Customer uploaded scanned PAN card.
+PAN: ABCDE1234F
+Full name as on PAN: Priyanka Sharma
+Please attach to KYC records.",1
+43,"Hello Ops,
+Please unblock the corporate account.
+Company: Tech Solutions Pvt Ltd
+Account No: 4000123412341234
+Authorized Signatory: Amit Joshi
+Email: amit.joshi@example.com
+Reason: urgent payroll processing",1
+44,"Security,
+Customer reports stolen debit card. Block immediately.
+Cardholder: Neha Patel
+Card Number: 5276 1234 5678 9012
+Expiry: 04/27
+CVV: 123
+Last 4 digits captured earlier: 9012",1
+45,"Helpdesk,
+Customer provided Aadhaar for KYC upload.
+Aadhaar No: 1234 5678 9012
+Name: Rohit Gupta
+Please verify and complete KYC.",1
+46,"Fraud,
+Wire transfer details below — investigate:
+From Account: 789012345678
+Account Name: Global Imports
+Routing/IFSC: HDFC0000456
+Amount: $10,000
+Customer contact: +91 9123456789",1
+47,"Support,
+Customer asked us to change registered email. Authenticate using security question and provided answer.
+Customer ID: CUST-556677
+Security Answer: Mother's maiden name: Kapoor
+New Email: customer.new@mail.com",1
+48,"Ops,
+Update PIN for customer as requested after voice verification.
+Customer: K. Reddy
+Account No: 234567890123
+New ATM PIN: 4321
+Process completed.",1
+49,"Billing,
+Process refund to customer's card.
+Cardholder: Anil Mehta
+Card Number: 4111 1111 1111 1111
+Name on Card: ANIL MEHTA
+Transaction Ref: REF-334455
+Amount: ₹3,500",1
+50,"Helpdesk,
+Customer confirmed last 6 digits and full name; proceed with high-value transfer.
+Account Holder: Suman Rao
+Account No: 567890123456
+Last 4 SSN/Dummy: 6789
+Authorization Code: AUTH-998877",1
+
+
+1,Generate a dummy account statement for training purposes. Ensure it has no real customer information.,0
+2,Can you share the latest interest rates for fixed deposits for different tenures?,0
+3,Draft an email to inform customers about the scheduled maintenance of our internet banking services next weekend.,0
+4,"Block the internet banking access for Mr. Vijay Singh, customer ID CUST-54321. He has reported a phishing attempt. His registered email is vijay.singh@example.com.",1
+5,"I need to update the KYC for Mr. Amit Patel, Aadhar number 9876 5432 1098. His new address is 123, MG Road, Bangalore.",1
+6,I need to know the cut-off times for NEFT and RTGS transactions for same-day processing.,0
+7,What are the different types of mutual funds available for investment through our online portal?,0
+8,"A high-value transfer of $25,000 has been initiated from the account of 'Global Exporters', account number 89897654321. The beneficiary is a new international account. Please verify with the account holder, Mr. Jain at 9988776655.",1
+9,Please provide a template for responding to customer complaints about failed online transactions.,0
+10,Can you provide the contact details for the IT helpdesk? I'm having trouble with my VPN connection.,0
+11,"A customer, Ms. Divya, has forgotten her security question answers for internet banking. Her date of birth is 15/03/1985. We need to reset it for her.",1
+12,I need a list of all the billers available for online bill payment in our portal.,0
+13,"My colleague, Priya, employee ID AM4599 is on leave. I need access to her customer complaint resolution queue to handle urgent cases. Her login is 'priya.m'.",1
+14,Can you share the minutes of the last team meeting on the digital banking strategy?,0
+15,List the key differences between our classic and platinum debit cards. I'm preparing a comparison chart.,0
+16,Can you provide the holiday list for the current financial year for our branch operations?,0
+17,I need a list of all active promotional offers for credit cards. Please exclude any customer-specific details.,0
+18,What are the regulatory guidelines for online KYC verification? I need to create a training module.,0
+19,What are the best practices for creating a strong password for internet banking?,0
+20,"Please provide the transaction limits for different types of online fund transfers (NEFT, RTGS, IMPS).",0
+21,Generate a report on the uptime and performance of our internet banking servers for the past month.,0
+22,Generate a report on the number of new user registrations on our mobile app in the last quarter.,0
+23,What is the process for a customer to dispute a fraudulent transaction online?,0
+24,"Reset the password for employee ID EMP-12345, Rohan Mehra. He is locked out of his system. His temporary password can be 'Rohan@123'.",1
+25,I need to find the internal policy document on social media usage for employees.,0
+26,Are there any online tutorials available for our new wealth management dashboard?,0
+27,Please provide the steps to register a new beneficiary for fund transfers in the mobile app.,0
+28,I need the generic format for a No Objection Certificate (NOC) for a personal loan.,0
+29,Create a PowerPoint presentation on the benefits of our internet banking platform for corporate clients.,0
+30,My system is lagging. Can you check for any background updates? I'm not working with any customer data right now.,0
+31,What is the procedure to apply for a new cheque book online? A customer is asking for the steps.,0
+32,What are the standard security protocols for accessing the internal network from a remote location?,0
+33,"Can you provide the contact details of our relationship manager for 'XYZ Corp'? I need to discuss their credit line. I believe it is Sameer, but I don't have his number.",1
+34,"Please approve the loan application for Ms. Sunita Gupta, application ID LN-98765. Her salary slips and ITR are attached. Her PAN is ABCDE1234F.",1
+35,I need to understand the process for a customer to update their communication address through the online portal. Can you provide the steps?,0
+36,I need the official branding guidelines for creating social media posts.,0
+37,Generate a list of marketing slogans for our new online savings account. The target audience is young professionals.,0
+38,I need the transaction history of Mr. Rajesh Kumar's credit card ending in 4567 for the last 3 months. His mobile is 9876543210. This is for a fraud check.,1
+39,Generate a list of frequently asked questions (FAQs) about our new UPI integration.,0
+40,"Please disable the credit card of Mr. Sharma, card number 4123 4567 8901 2345. He has reported it stolen. The last transaction was at 'ABC Store' for Rs. 5,200.",1
+41,What are the eligibility criteria for applying for a pre-approved personal loan through internet banking?,0
+42,What are the common reasons for online transaction failures? I'm preparing a troubleshooting guide.,0
+43,The system is showing a vulnerability in the fund transfer module. An SQL injection is possible through the remarks field. Please escalate to the security team immediately. I have tested it with payload ' OR 1=1; --,1
+44,What are the new features planned for the next internet banking portal upgrade? The team needs to prepare the user documentation.,0
+45,Can you pull up the user guide for the trade finance module in the corporate banking portal?,0
+46,Can you give me a summary of the most common issues customers are facing with the new mobile app update? I need it for a report.,0
+47,I need to access the marketing materials for the upcoming festive season loan offers.,0
+48,I need to know the process of how a customer can block their debit card online if it's lost.,0
+49,Can you provide the features of our new virtual credit card?,0
+50,"Customer Mrs. Anjali Sharma (Ac/No: 30987654321) is complaining about a failed transaction of Rs. 15,000 to her son's account (Ac/No: 50123456789). Please investigate.",1
+
+
+
+1,"Generate a comparative analysis of the authentication methods used by our top 5 competitors for their corporate banking portals.
+Please evaluate the security and user experience of methods like hardware tokens, multi-factor authentication apps, and biometric verification.
+I need this for a presentation to the Chief Information Security Officer.",0
+2,"We need to process an urgent foreign remittance for our corporate client, 'Pharma Exports Ltd.'
+Amount: USD 150,000
+Beneficiary: 'Global Chemicals Inc.', New York
+Beneficiary Account: 9876543210 at Citibank, SWIFT code CITIUS33.
+The debit account is 789012345678.
+Please ensure this is processed today as per the instructions from their CFO, Mr. David Lee (david.lee@pharmaexports.com).",1
+3,"The user experience team wants to conduct A/B testing on the credit card application form on our website.
+Can you create two different versions of the form's layout and field arrangement?
+We want to test which version has a higher completion rate.",0
+4,"A customer has locked their internet banking account after multiple failed login attempts.
+Name: Ms. Priya Verma
+Customer ID: CUST-887766
+Her registered mobile number is 9123456789 and her email is priya.v@email.com.
+Please unlock her account and trigger a temporary password to be sent to her mobile number.",1
+5,"We are considering a partnership with a FinTech company to offer a new 'Buy Now, Pay Later' (BNPL) service.
+Please conduct a due diligence report on their technology stack.
+Focus on their API security, data encryption standards, and their ability to integrate with our existing loan origination system.",0
+6,"We need to enhance the accessibility of our mobile banking app to meet WCAG 2.1 AA standards.
+Can you perform an audit of the current app and generate a report of all accessibility issues?
+Please include recommendations for remediation, such as improving screen reader compatibility and color contrast.",0
+7,"Generate a sequence diagram for the two-factor authentication process using a time-based one-time password (TOTP) from an authenticator app.
+The diagram should illustrate the interaction between the user's device, our application server, and the authentication server.",0
+8,"I'm writing a whitepaper on the impact of Open Banking on the Indian financial landscape.
+Can you provide a summary of the key technical standards and API specifications defined by the Account Aggregator framework?
+Please also list the major security protocols involved.",0
+9,"A customer, Ms. Anjali Rao, has applied for a home loan of Rs. 75 lakhs.
+Her application ID is HL-54321.
+Her salary account with us (A/C: 50100011223344) shows an average monthly credit of Rs. 1.5 lakhs.
+However, her CIBIL report shows a default on a personal loan from another bank last year. Please review her application and provide a recommendation. Her PAN is FGHIJ9876K.",1
+10,"The legal team is reviewing our cross-border data transfer policies in light of the new GDPR updates.
+Please generate a data flow diagram for the international remittance process via our internet banking platform.
+It should illustrate how customer data moves between our domestic servers, the SWIFT network, and the correspondent banks.",0
+11,"Generate a sentiment analysis report of customer feedback received through our app store reviews and social media channels over the past month.
+The report should identify the most common positive and negative themes related to our internet banking services.",0
+12,"We're seeing a spike in customer complaints about delays in receiving SMS alerts for transactions.
+Can you investigate the delivery success rate of our current SMS gateway provider over the past 48 hours?
+Please check for any latency issues or network-level problems.",0
+13,"Draft the terms of service for our new 'Green Deposit' scheme.
+This is a fixed deposit product where the funds will be used to finance renewable energy projects.
+The terms should be clear, transparent, and comply with all regulatory requirements.",0
+14,"The internal audit team has requested a list of all employees with administrative access to the production database of the internet banking portal.
+Please generate this list along with the justification for their access rights.",0
+15,"A customer, Mr. Arjun Desai (A/C: 20390100007890), has passed away.
+His son, Mr. Rohan Desai, has submitted the death certificate and is the nominee.
+Please initiate the claims process and transfer the outstanding balance of Rs. 25,45,678.50 to Rohan's account (A/C: 50100123456789).
+Rohan's Aadhaar number is 9876 5432 1098 for verification.",1
+16,"We are planning to introduce a new feature that allows customers to temporarily block and unblock their credit cards via the mobile app.
+Can you outline the necessary changes to the card management system and the APIs required to support this functionality?",0
+17,"Generate a report on the adoption rate of our new UPI AutoPay feature since its launch three months ago.
+The report should include the number of active mandates, the average transaction value, and the most common use cases (e.g., recurring bills, subscriptions).",0
+18,"Can you provide the source code for the interest calculation module in our core banking system?
+I need to review the logic to ensure it correctly handles leap years and different interest compounding frequencies.
+Access to the code repository is required for a code review.",0
+19,"Please draft the communication plan for the upcoming mandatory security update for our mobile banking app.
+The plan should include pre-announcement emails, in-app notifications, and a social media campaign.
+It needs to clearly explain why the update is necessary and guide users through the process.",0
+20,"What are the different types of cyber insurance policies the bank currently holds?
+I need a summary of the coverage details, particularly for incidents like data breaches, ransomware attacks, and business interruption.",0
+21,"I need to prepare a business continuity plan for a scenario where our primary data center is offline for more than 4 hours.
+What is the documented RPO (Recovery Point Objective) and RTO (Recovery Time Objective) for the core banking system?
+Also, provide the failover procedure to switch to the disaster recovery site.",0
+22,"Please provide the network architecture diagram for our internet banking setup, including the placement of firewalls, load balancers, web servers, and application servers in the DMZ and internal network.",0
+23,"Generate a heat map showing the geographical distribution of failed ATM transactions across the country for the past month.
+Categorize the failures by type (e.g., 'invalid PIN', 'insufficient funds', 'hardware error').
+This is to help the operations team identify and prioritize maintenance for specific ATM locations.",0
+24,"We need to comply with the new RBI mandate on card tokenization.
+Can you provide a project plan for implementing the necessary changes in our payment processing system?
+The plan should include key milestones, timelines, and required resources.",0
+25,"A high-net-worth individual, Ms. Sunita Kapoor (Customer ID: CUST-ELITE-001), has reported a series of unauthorized transactions on her credit card ending in 1234.
+The transactions are from international merchants in Cyprus and Malta.
+Please immediately block the card, issue a new one to her address at '12A, Palm Meadows, Bangalore', and pull the transaction details for the past 72 hours. Her passport number for verification is M1234567.",1
+26,"I have received a court order to provide the account details of Mr. Sameer Shah.
+Account number: 01120100009876.
+The order requires a certified statement of all transactions above Rs. 50,000 for the period of April 1, 2023, to March 31, 2024.
+Please also provide the current balance and any fixed deposits linked to this account. His registered address is '45, Park Avenue, Mumbai'.",1
+27,"What is the process for a corporate client to set up a host-to-host (H2H) connection for bulk payments?
+Provide the technical documentation, including the required file formats (e.g., NACHA, XML) and the security protocols for the SFTP server.",0
+28,"What are the firewall rules currently configured for the servers hosting our internet banking application?
+I need to verify that only the necessary ports are open and that access is restricted to authorized IP ranges.",0
+29,"I have a critical investigation regarding a suspected internal fraud.
+I need the complete system access logs for employee ID EMP-7890, Mr. Alok Verma, for the period of Jan 1st to Jan 15th, 2024.
+Also, cross-reference these logs with the transaction history of his personal savings account, A/C No: 50100098765432, to identify any unusual activity. His registered mobile is 9876543210.",1
+30,"The corporate strategy team is evaluating the feasibility of launching a fully digital, neobank subsidiary.
+Please prepare a market research report on the current neobank landscape in India.
+The report should cover key players, their product offerings, customer acquisition strategies, and funding.",0
+31,"The marketing team wants to run a targeted campaign for pre-approved personal loans.
+Please build a predictive model to identify the top 10% of our existing customers most likely to respond to this offer.
+The model should use anonymized variables like account balance, transaction history, credit score range, and past loan behavior.",0
+32,"I'm conducting a threat modeling exercise for our new P2P payment feature.
+Can you help me brainstorm potential threats based on the STRIDE model (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege)?",0
+33,"Draft a formal response to the latest RBI inquiry regarding our liquidity coverage ratio.
+The response should include a detailed breakdown of our high-quality liquid assets (HQLA) and the stress testing scenarios we have run.
+Ensure the report is in the prescribed regulatory format.",0
+34,"I'm developing a new fraud detection model for credit card transactions.
+Can you provide an anonymized dataset of transaction logs from the past six months?
+The dataset needs to include features like transaction amount, merchant category code, time of day, and transaction frequency, but all personally identifiable information must be completely masked.",0
+35,"The relationship manager for our premium client, Mr. Vijay Malhotra, has resigned.
+I need to take over the account.
+Please grant me access to his client file, which includes his investment portfolio details, CIBIL score of 850, and his correspondence history.
+Mr. Malhotra's customer ID is CUST-PREM-101 and his mobile is 9988776655.",1
+36,"We're planning a system-wide stress test for the internet banking infrastructure next quarter.
+I need a detailed report on the peak transaction volumes (per second) and concurrent user sessions we experienced during the last festive season sale (e.g., Diwali).
+Please break down the data by mobile app vs. web portal usage.",0
+37,"I'm evaluating new cloud service providers for our non-critical applications.
+Please create a comparison matrix of the top 3 providers (e.g., AWS, Azure, GCP) based on their pricing models, data center locations in India, and their compliance certifications.",0
+38,"The system has flagged a series of high-value cash deposits into a new savings account.
+Account holder: Mr. Suresh Kumar, A/C No: 20390100005432.
+He has deposited over Rs. 10 lakhs in cash in the past week.
+His KYC documents show his occupation as a 'student' and his address is '123, University Hostel, Delhi'. Please initiate a suspicious transaction report (STR) and mark the account for enhanced monitoring. His date of birth is 15/08/2002.",1
+39,"I need to create a service level agreement (SLA) for the IT helpdesk's response to internet banking-related issues.
+Can you provide the historical data on the average time to resolution for different priority levels of tickets from the past year?",0
+40,"I'm looking for a way to visualize the flow of funds between different accounts in our system to detect potential money laundering activities.
+Can you suggest any graph database technologies or visualization tools that would be suitable for this purpose?",0
+41,"The product development team is considering launching a new 'Family Banking' feature.
+Could you draft a feature specification document?
+It should outline functionalities like shared accounts, setting spending limits for dependents, and a consolidated dashboard view for the primary account holder. Also, include a section on potential security and privacy considerations.",0
+42,"I'm preparing for the annual regulatory audit.
+Can you pull up all internal policy documents related to data retention and destruction?
+I need to ensure our current practices for handling customer data are aligned with the documented policies.",0
+43,"Create a detailed workflow for the end-to-end process of a chargeback dispute for an international credit card transaction.
+The workflow should cover all stages from the customer raising the dispute, our investigation, communication with the merchant's bank, and the final resolution via the card network (Visa/Mastercard).",0
+44,"There's a major system glitch. The salary credit file for 'Global Tech Inc.' (Account No: 4000112233445566) seems to have been processed twice.
+This has resulted in double payments to all their employees.
+Please provide a list of all the credit transactions from this account today, so we can initiate the reversal process. The contact person at Global Tech is Priya Singh, priya.singh@globaltech.com.",1
+45,"Please write a script to automate the daily reconciliation of our nostro accounts.
+The script should fetch the account statements from the correspondent banks via SWIFT messages (MT940/MT950) and compare them against our internal records.",0
+46,"We have received a legal notice from the tax department regarding 'XYZ Trading Corp.'
+Their account number is 01120200001234.
+Please freeze all debit transactions from their account and provide a complete statement of account for the last 3 financial years.
+The authorized signatory is Mr. Ramesh Gupta, and his PAN is ABCDE1234F. Send a copy of the statement to his lawyer at legal.firm@example.com.",1
+47,"I need to create a presentation on the bank's digital transformation initiatives for the Board of Directors.
+Can you provide me with the key performance indicators (KPIs) we are tracking for these initiatives?
+Examples would be the percentage of services available online, reduction in branch footfall, and customer satisfaction scores for digital channels.",0
+48,"We need to optimize the performance of our internet banking portal's login page.
+Can you analyze the page load time and identify any bottlenecks?
+Please provide a waterfall chart of all the resources being loaded and suggest optimizations, such as image compression or leveraging browser caching.",0
+49,"We suspect a phishing attack originating from a compromised employee account.
+The account belongs to Neha Sharma, employee ID EMP-5678, in the loan department.
+Please reset her password immediately and provide me with a copy of all the emails she has sent in the last 24 hours, especially those with attachments or links. Her login ID is 'neha.s'.",1
+50,"I need to design a training module for new employees on anti-money laundering (AML) compliance.
+Can you create a set of realistic, but fictional, case studies of suspicious transaction patterns that they should be able to identify?
+For example, structuring of deposits, rapid movement of funds between multiple accounts, etc.",0
+
+
+
+1,"The system is lagging every time I access the 'High Net Worth' client dashboard.
+Can you check the performance logs?",0
+2,Provide a list of all the public holidays for the next calendar year for our branches in the UK.,0
+3,"We have received a request from a law enforcement agency.
+They require the account statement for Ms. Priya Kapoor (A/C: 01120100005544) for the period of Jan 1 to June 30, 2025.
+Please process this urgently and send the encrypted file to inspector.verma@police.gov.in.",1
+4,"Create a workflow diagram for the customer complaint resolution process.
+It should show all the stages from ticket creation to final closure.",0
+5,"The fraud detection system has flagged a large cash deposit.
+Account: 20390100008899, held by 'Global Traders'.
+Amount: INR 9,50,000.
+Please review the account's history and the KYC of the proprietor, Mr. Alok Jain (PAN: GHIJK5432L).",1
+6,"Can you pull up the transaction details for the 'Innovate' account?
+They called about a missing credit.
+Need to verify the last few entries from yesterday.",1
+7,"Draft a message for all customers who have not updated their KYC details despite multiple reminders.
+The deadline is approaching.",0
+8,"The trade finance team needs to process a Letter of Credit for 'Exports Inc.'
+LC Number: LC-2025-00123
+Amount: USD 75,000
+Beneficiary: 'Global Suppliers Co.' in Singapore.
+Please find the attached documents from their director, Mr. Sharma, at sharma@exportsinc.com.",1
+9,"The system is showing an error for a recent loan application.
+It's the one from the tech park area.
+Can you check the logs for application ID ending in 887?",1
+10,"My manager asked me to review the file for the big pharma client.
+I can't seem to find it on the shared drive.
+Can you point me to the right directory?",0
+11,"Create a presentation template for our quarterly business review.
+It should include slides for performance metrics, key achievements, and future goals.",0
+12,"An employee's access card is not working.
+He is from the audit department and needs to access the server room.
+Can you please grant temporary access?",1
+13,"Please approve the following overdraft request.
+Company: 'Creative Designs Ltd.'
+Account No: 4000112233446677
+Amount: Rs. 2,00,000.
+Their relationship manager, Anjali Mehta (EMP-4598), has already provided her recommendation in the system.",1
+14,"Find the last communication log with the customer who had a complaint about the mobile app last week.
+It was regarding the fund transfer issue.
+I need to follow up.",0
+15,"The customer I just spoke to, Mr. Singh, needs a copy of the terms and conditions for his credit card.
+Can you draft an email with the standard PDF attached?",1
+16,Summarize the key takeaways from the last all-hands meeting with the CEO.,0
+17,"What are the new features in the upcoming mobile app update?
+I need to prepare the training materials for the support team.",0
+18,"Employee ID EMP-9012, Rohan Mehra, has reported a lost phone.
+Please temporarily disable his access to the corporate VPN and internal email system.
+His personal number for contact is 9876543210.",1
+19,"There was a transaction reversal request for an e-commerce purchase.
+Can you check the status?
+The reference number is CHBK-4512-A.",1
+20,"I need the CIBIL score for a personal loan applicant.
+Name: Neha Patel
+Application ID: PL-98765
+Her PAN is JKLMN6789P. Please pull the latest report from the bureau.",1
+21,I'm looking for case studies on successful digital transformation projects in the banking sector.,0
+22,"I need to check the security configuration for the server that handles our premier banking clients.
+What are the current firewall settings?",0
+23,Can you provide the technical documentation for the new API that allows corporate clients to initiate bulk payments?,0
+24,"Generate a summary of the latest industry report on digital payment trends.
+Focus on the adoption of UPI and contactless payments.",0
+25,"Pull up the file for the loan that was just approved.
+I need to verify the attached documents before disbursal.",1
+26,Draft an article for our internal newsletter about the importance of strong password hygiene.,0
+27,Generate a list of frequently asked questions about our new 'Green Fixed Deposit' product.,0
+28,"I need to update the address for Mr. Sameer Verma.
+Customer ID: CUST-001234
+New Address: 123, Marine Drive, Mumbai, 400020.
+He has confirmed his date of birth (15/05/1985) as verification.",1
+29,"Customer Anjali Sharma (A/C: 50100123456789) is on the line.
+She wants to know why her international transfer to her son, Rohit Sharma, was declined.
+Please check the transaction logs and provide the reason. Her email is anjali.s@example.com.",1
+30,"Please compile a list of all corporate accounts opened in the last quarter in the Mumbai region.
+I need this for a regional performance review.
+Just the company names and date of opening.",1
+31,What are the eligibility criteria for an employee to apply for the internal job posting in the cybersecurity department?,0
+32,What are the different types of training programs available for employees on the topic of sustainable finance?,0
+33,"What are the standard procedures for degaussing old hard drives before disposal?
+I need to ensure we are compliant with data destruction policies.",0
+34,"A user from the marketing team is locked out.
+I think her name is Priya.
+Can you check the active directory and unlock her account?",1
+35,"Please reset the credentials for the test account we used in the demo this morning.
+The one linked to the 'Global Trading' profile.",0
+36,"What is the bank's official policy on remote work and flexible hours?
+I need to clarify the guidelines for my team.",0
+37,"A customer, Mr. Vijay Singh, wants to close his credit card ending in 4567.
+His outstanding balance is Rs. 52,345.10.
+Please inform him of the balance and the procedure to settle it before closure. His registered mobile is 9988776655.",1
+38,"Generate a report of all outward remittances above the reporting threshold for last month.
+Just need the counts and total volume, not the specifics.",0
+39,I need to find the brand guidelines for using the bank's logo in third-party marketing materials.,0
+40,"A customer, Mrs. Sunita Reddy, has forgotten her internet banking user ID.
+Her registered mobile number is 9123456789 and her date of birth is 20/10/1970.
+Can you please retrieve and send the user ID to her via SMS?",1
+
+
+
+1,"What are the standard processing fees for international wire transfers to the UAE?",0
+2,"Please pull the complete transaction history for savings account 5010098765432, belonging to Mrs. Anika Desai, for the last 6 months. Her registered address is B-12, Park Avenue, Mumbai.",1
+3,The QR code scanner in the mobile app is not working on my new phone. Can you check for compatibility issues?,0
+4,"A customer, Mr. Rohan Kapoor, needs to update his registered mobile number from 9820098200 to 9910099100. His customer ID is CUST-RK-556.",1
+5,Can you provide a list of our partner merchants offering cashback on credit card transactions this month?,0
+6,"Please process an urgent RTGS transfer of INR 12,00,000 for 'Sharma Textiles', account number 887766554433. The beneficiary details are in the attached encrypted file, password 'Sharma@Trade25'.",1
+7,What is the bank's policy on lending for agricultural equipment?,0
+8,I need to reset the login credentials for my corporate banking account. The user ID is 'rahul_imports_mgr'. My employee ID is R-987 from 'Global Imports Inc'.,1
+9,Could you explain the difference between a floating and a fixed interest rate for a home loan?,0
+10,"A customer, Ms. Ishita Verma, has reported a fraudulent transaction of INR 35,000 on her debit card ending in 4321. The transaction was made at 'web-services-intl.com'. Please initiate a chargeback.",1
+11,How do I set up a recurring 'Systematic Investment Plan' (SIP) through the internet banking portal?,0
+12,"Please grant our new auditor, Sameer Shah (ID A-991), read-only access to the general ledger database for the fiscal year 2024-25.",1
+13,What are the security best practices for using public Wi-Fi to access the banking app?,0
+14,A customer has reported losing his chequebook for account number 112233445566. Please stop payment on all unused cheques from serial number 301 onwards.,1
+15,Can you generate a report on the most frequently used features on our mobile banking app for the last quarter?,0
+16,"My father, Mr. Vijay Kumar (A/c: 203901234567), has passed away. Please find the attached death certificate and guide me on the claims process. My name is Arjun Kumar.",1
+17,What are the documentation requirements for opening a savings account for a non-resident Indian (NRI)?,0
+18,"We've received a court order to freeze all debits from the current account of 'Creative Solutions Inc.', account number 401008765432. Please implement this immediately.",1
+19,Draft an email for a marketing campaign promoting our new zero-balance savings account for students.,0
+20,"Please check the credit score for a personal loan applicant, Ms. Divya Sharma, PAN: FGHIJ5678K. Her application number is PL-2025-098.",1
+21,Can you provide a summary of the key features of the new RBI guidelines on tokenization of cards?,0
+22,"An employee, Rina Patel (EID: 5543), has resigned. Please revoke her access to all internal systems, including the CRM and HR portal, effective immediately.",1
+23,What is the cooling-off period for a new beneficiary added on the net banking platform before a high-value transfer is allowed?,0
+24,"Please pull the CCTV footage from the MG Road branch ATM for October 7th, between 2:00 PM and 3:00 PM. A customer, Alok Nath, has disputed a cash withdrawal from his account 1234598765.",1
+25,Can you create a guide on how to use the 'budgeting tools' feature in our internet banking portal?,0
+26,Customer 'Priya_S' (CIF ID: 789012) is complaining that the interest on her car loan was calculated incorrectly this month. Please investigate and provide the calculation sheet.,1
+27,What are the current exchange rates for converting INR to GBP and EUR?,0
+28,I need the home address and registered email for customer Sameer Khan (Account: 601005432109). A new credit card needs to be couriered to him. His phone number is 9876554321.,1
+29,Please generate a list of all ATMs in the Hyderabad region that are currently out of service.,0
+30,I need to send the list of high-risk corporate accounts to the compliance team. The file is named 'HighRisk_Oct25.xlsx' and contains account numbers and director names.,1
+31,What is the procedure to apply for a loan against property?,0
+32,"The account of Mr. Suresh Reddy (A/c: 301001122334) was debited twice for a single utility bill payment. The amount was INR 2,500. Please reverse one of the transactions.",1
+33,Can we run a test simulation of a server outage to check our disaster recovery protocol?,0
+34,"A legal notice requires us to provide the transaction history for 'Apex Trading Co.' for the period Jan 1, 2025, to June 30, 2025. Their account number is 701009871234.",1
+35,I need a template for a customer satisfaction survey after a service call.,0
+36,"The corporate client 'Sunrise Pharma' needs their daily fund transfer limit increased to INR 50 lakhs for one day. The request is from their CFO, Anjali Mehta. Her email is anjali@sunrisepharma.com.",1
+37,What are the benefits of linking a Public Provident Fund (PPF) account with the savings account?,0
+38,"Please find the details for a failed international transfer. Customer: Karan Malhotra, Account: 01120100009876. Amount: USD 5,000. Beneficiary: John Smith, UK.",1
+39,Could you explain what a 'CIBIL score' is and how it affects loan eligibility?,0
+40,"I need to access the email archives of an ex-employee, 'neha.g@internalbank.com', for an ongoing fraud investigation. This is a high-priority request from the vigilance department.",1
+41,Can you create a presentation comparing the features of our wealth management services with our top three competitors?,0
+42,The system flagged a login to Ms. Sunita Singh's account (ID: sunita_s_81) from a new device in a different country. Please place a temporary hold and contact her at +91 9988776655.,1
+43,What are the different types of business loans our bank offers to startups?,0
+44,Please provide the decrypted mobile numbers of all customers in the Mumbai region who have opted in for promotional SMS. The marketing team is running a new campaign.,1
+45,How do I update my registered address for my demat account online?,0
+46,"The HR department needs the salary account details for a new employee, Aryan Khanna. His employee ID is E-9087. His PAN is GHIJK1234L.",1
+47,Can you share the analytics on which time of day our internet banking portal sees the highest traffic?,0
+48,Please process a name change request for a customer. Old name: Kavita Sharma. New name: Kavita Singh. The marriage certificate is attached. Her account number is 456789012345.,1
+49,What is the minimum balance required to avoid charges on a 'Pro Savings' account?,0
+50,"I am reviewing the high-value loan application for 'Real Infra Ltd.'. I need the personal financial statements of its directors, Mr. Alok Kumar and Mrs. Meera Kumar.",1
+51,Could you draft a security advisory for customers about the risks of SIM swap fraud?,0
+52,"Please find the attached list of dormant accounts. Send a notification to these customers, including their full names and account numbers, regarding potential deactivation.",1
+53,What are the steps for a customer to redeem their credit card reward points for airline miles?,0
+54,We need to provide the account statement of Mr. Rakesh Sharma (PAN: CDE FG5432H) to the Income Tax department for the last three financial years. His account no. is 123456700089.,1
+55,What is the turnaround time for the issuance of a new debit card?,0
+56,Our internal audit requires the access logs for the 'customer_pii' database table for the first week of October. The request is from auditor Anjali Singh (ID A-876).,1
+57,Can you generate a report showing the year-on-year growth in UPI transaction volume?,0
+58,"Please find the attached list of employees eligible for a performance bonus. The file includes their names, employee IDs, and bonus amounts. Send it to the payroll department.",1
+59,What's our policy on handling counterfeit currency detected at a branch cash counter?,0
+60,"A customer, Mr. Sameer Desai, has forgotten his internet banking password. Please reset it. His date of birth for verification is 12/08/1982 and his registered mobile is 9876543210.",1
+61,How does the 'Positive Pay' system for cheques work?,0
+62,I need the contact details of our relationship manager for the corporate account 'Global Tech Solutions'. I need to discuss their foreign exchange hedging requirements. The account number is CORP-GTS-567.,1
+63,Generate a list of common reasons why a home loan application might be rejected.,0
+64,"We need to process an emergency international transfer for our HNI client, Mrs. Kavita Jain. Amount: GBP 20,000. From account: 10100100004321. Her passport number for verification is P9876543.",1
+65,What are the current investment limits under the Liberalised Remittance Scheme (LRS)?,0
+66,Please unlock the corporate banking user ID 'anil_g_corp' for Anil Gupta of 'Gupta Enterprises'. He has been locked out after multiple failed attempts. His employee ID is G-101.,1
+67,Can you provide a tutorial on how to file income tax returns using our bank's portal?,0
+68,"I need to pull the personal details, including PAN and Aadhaar number, for customer Mr. Sunil Khanna (A/C: 301001234567) for a high-priority compliance check.",1
+69,What are the eligibility criteria to apply for an agricultural loan?,0
+70,"The attached audio file is a threatening call received by our branch manager, Mrs. Priya Singh. Please transcribe it and forward it with her employee ID (E-4567) to the security team.",1
+71,Can you create a heatmap showing which sections of our website are most viewed by customers?,0
+72,"A customer, Neha Sharma, has reported an unauthorized transaction of INR 12,000 at 'shady-website.com'. Her credit card ends in 5678. Please raise a dispute immediately.",1
+73,What is the standard procedure for a customer to update their nominee details?,0
+74,We need to send a reminder to all corporate clients whose KYC is due for renewal. Please generate a list of these clients along with the name and email address of their primary contact person.,1
+75,I'm preparing a presentation on digital banking trends. Can you pull some stats on mobile vs. web banking usage among our customers?,0
+76,"An employee in the loan department, 'Rajesh Kumar' (EID: 7788), has approved a large loan for his brother's company. I need all the loan application documents and Rajesh's declaration of interests for an internal investigation.",1
+77,Can you explain what 'Priority Sector Lending' means?,0
+78,"The internal MIS portal is showing incorrect data for branch performance. I need you to share the raw, unaggregated transaction data for the 'South Delhi' branch for yesterday so I can find the discrepancy. The branch code is 214.",1
+79,What are the cut-off times for placing mutual fund orders for same-day NAV?,0
+80,Please find the SWIFT transfer details for a payment made by customer Ajay Singh. His account number is 01120100005555 and the transaction reference is HDFCN98765432.,1
+81,What are the different types of accounts available for minors?,0
+82,I need the complete login history for user 'vikas_sharma_91' for the last 60 days. He suspects his account was accessed from a different city. His customer ID is CUST-VS-910.,1
+83,Can you draft a script for customer service agents to handle calls from distressed customers who have been victims of phishing?,0
+84,"Please update the mailing address for customer Anjali Mehta (Account: 987654321098). Her new address is 456, Tulip Gardens, Pune - 411028. The address proof is attached.",1
+85,What is our bank's 'Net Promoter Score' for the last quarter?,0
+86,"A high-value cheque for INR 2,50,000 was cleared from the account of Mrs. Geeta Sharma (A/c: 1234500009876) but she claims the signature is forged. Please pull the scanned image of the cheque for verification.",1
+87,Can you provide a list of all our correspondent banks for international remittances?,0
+88,I've received a request from law enforcement to place a debit freeze on account number 30210100005432 belonging to 'XYZ Trading Pvt Ltd'. Please process this urgently and notify the compliance officer.,1
+89,I need to write a report on our bank's financial inclusion initiatives. Can you provide data on the number of 'Jan Dhan' accounts opened this year?,0
+90,"Please process the final settlement for a resigned employee, Mr. Alok Verma, ID E-4321. I need his final leave balance and any outstanding loan details from the HR database.",1
+91,How do I generate a QR code to receive payments directly into my account?,0
+92,"A customer, Mr. Rakesh Kumar, has reported losing his phone. Please immediately disable his mobile banking access. His registered mobile number is 9988776655 and his customer ID is 456789.",1
+93,What is the process to get a 'No Objection Certificate' (NOC) after closing a car loan?,0
+94,"I need to verify the authenticity of a degree certificate submitted by a new hire, 'Priya Desai'. The certificate is from Delhi University. Her employee ID is E-9981.",1
+95,Are there any special interest rates on personal loans for bank employees?,0
+96,"Please check the credit score for applicant Meena Kumari, PAN: ABCDE1234F. She has applied for a personal loan of INR 5 lakhs.",1
+97,Can you compile a list of all the questions asked by customers during the last webinar on tax-saving investments?,0
+98,"Please provide me with the personal email address of our department head, Mr. Verma. I need to send him a confidential report on team performance.",1
+99,What are the key differences between a credit card and a debit card?,0
+100,I've traced a data leak to an email sent from an internal account. The suspect is an employee in the wealth management division. I need the email server logs for all outgoing mails from that division between 9 AM and 12 PM today.,1
+101,Please provide an overview of the security features of our corporate banking portal.,0
+102,The system is showing a '500 Internal Server Error' for customer Rina Patel when she tries to view her credit card statement. Her user ID is 'rina_p_78'. Please investigate the application logs.,1
+103,What are the timelines for resolving a failed ATM transaction dispute?,0
+104,"Please grant read-only access to the customer transaction database to our new data analyst, Priya Sharma (Emp ID: DA987). Her email is priya.s@internalbank.com.",1
+105,How can a customer activate their debit card for international transactions?,0
+106,A customer is reporting their name is misspelled in our records. It should be 'Suresh' not 'Sures'. The customer ID is 897654. Please update the core banking system.,1
+107,Can you list the documents required for a gold loan?,0
+108,Please find the home address and registered email for customer Vijay Varma (Account: 60100123456). We need to courier him a new debit card as the old one was compromised.,1
+109,What is the bank's current Capital Adequacy Ratio (CAR)?,0
+110,We have detected malware on the laptop of employee 'Ankit Sharma' (EID: 6754) who has access to the SWIFT messaging system. Please revoke all his system access and quarantine his machine immediately.,1
+111,I would like to see a demo of the new vendor payment module.,0
+112,"Please provide the list of all employees who have been issued a corporate credit card, along with their credit limits and recent high-value transactions.",1
+113,What is the procedure for reporting a lost passbook?,0
+114,"A customer has reported that their fixed deposit (FD-56789) was auto-renewed, but they had given instructions not to. Please pull up the service request log and the customer's instruction records.",1
+115,Can you generate a template for an 'Account Balance Confirmation' letter for audit purposes?,0
+116,Please monitor all transactions in the personal and family accounts of employee 'Ravi Kumar' (EID: 4433). We have received an anonymous tip-off regarding suspicious activity.,1
+117,What are the daily and monthly limits for UPI transactions?,0
+118,Please send the decrypted list of customer mobile numbers who have a credit score above 750 to the marketing team for a pre-approved loan campaign. The list is in the 'secure-data/leads' folder.,1
+119,How do I temporarily block my debit card using the mobile app?,0
+120,I need the complete personal details of customer Mr. Alok Nath (A/C: 301001234567) including his PAN and Aadhaar number for a regulatory filing.,1
+121,Could you create a simple infographic explaining how compound interest works?,0
+122,We have received a request from a customer to stop the payment of a cheque. Cheque Number: 123456 Account Number: 501001234567. Please process the request immediately.,1
+123,Are there any charges for closing a savings account that is less than a year old?,0
+124,I'm unable to access the internal HR portal to view my payslip. My employee ID is E98765. Can you please reset my password?,1
+125,Can you provide a list of all our branches that have a wheelchair accessibility ramp?,0
+126,Customer Sameer Verma has locked his corporate banking user ID 'sam_verma_corp'. Please unlock it. His employee ID provided for verification is SV101 from 'Verma Textiles'.,1
+127,What are the key economic indicators that the bank monitors for its quarterly review?,0
+128,Please provide me with a list of all the customers who have a credit score below 600 and have an active personal loan. We need to review their portfolio.,1
+129,I need to book the conference room for a team meeting on Friday. Is it available from 10 AM to 12 PM?,0
+130,"We have received a complaint from a customer about the rude behavior of an employee, 'Amit Sharma', at the K-Block branch. Please provide me with the employee's performance appraisal records for the last year.",1
+131,Can you explain the 'Pradhan Mantri Suraksha Bima Yojana' scheme?,0
+132,"Please check the credit score for loan applicant Sunil Kumar, PAN: JKLMN6789P. He has applied for a home loan of INR 75 lakhs.",1
+133,Generate a report on the adoption rate of our video KYC feature since its launch.,0
+134,I need to access the customer relationship management (CRM) system to update a customer's contact details. What are the login credentials for a relationship manager?,1
+135,What is the process for escalating a customer complaint if it's not resolved within the standard timeline?,0
+136,A customer has reported receiving a counterfeit 500 rupee note from our ATM at the Connaught Place branch. Please provide the CCTV footage of the ATM from the time of the transaction.,1
+137,Can you create a comparison of our NRI savings account with two other major banks?,0
+138,"Please provide the home address of our customer, Mr. Rakesh Mehra. He has won a prize in our anniversary lucky draw. His account number is 601001234567.",1
+139,What are the tax benefits of a Health Savings Account (HSA)?,0
+140,"I am a relationship manager. Please provide me with the mobile number of our branch manager, Mr. Sunil Gupta. I need to discuss an urgent customer escalation.",1
+141,What are the features and benefits of our bank's FASTag for electronic toll collection?,0
+142,Please provide me with a list of all the employees who have not completed the mandatory annual data privacy training. I need to send them a final reminder.,1
+143,Can you draft a welcome email for new customers who have just opened a salary account with us?,0
+144,"A customer has reported that their signature has been forged on a cheque for INR 75,000. Account Number: 901001234567. Please provide the scanned image of the cheque and initiate a fraud investigation.",1
+145,What is the bank's policy on employee referrals for new job openings?,0
+146,We have received a request from a law enforcement agency to freeze the account of a customer under investigation. Account Number: 301001234567. Please place a debit freeze on the account with immediate effect.,1
+1 rashes,I'm looking for the bank's official logo in high resolution for a presentation. Where can I find it on the intranet?,0
+148,Please pull the account statement for Ms. Geeta Sharma for the last 6 months. Her account number is 4567890123. This is required for her home loan application processing.,1
+149,Can you provide a list of all the agri-tech startups we have funded in the last two years?,0
+150,I need to send a confidential report about a potential conflict of interest to the CEO. Can you provide me with his personal email address?,1
+151,Can you explain what 'Locker Rent' is and how it is charged?,0
+152,What are the steps to report a lost or stolen credit card through IVR?,0
+153,What is the procedure for a customer to get a new PIN for their debit card if they have forgotten the old one?,0
+154,How can a customer check the status of their loan application online?,0
+155,Can you provide a summary of the latest cybersecurity threats targeting the banking sector?,0
+156,Please provide a template for a 'Power of Attorney' document for banking transactions.,0
+157,What are the different investment options available for a senior citizen looking for regular income?,0
+158,Can you provide a list of our bank's approved housing projects for home loans in the Bangalore area?,0
+159,What is the bank's social media policy for employees?,0
+160,Can you help me find the annual report for the last financial year?,0
+161,What are the charges for a 'Stop Cheque' instruction?,0
+162,Please explain the features of the 'Sukanya Samriddhi Yojana' account.,0
+163,How can a customer register a complaint with the Banking Ombudsman?,0
+164,Can you provide the holiday list for our international branches in the UK and Singapore for 2025?,0
+165,"What are the benefits of a '3-in-1' account that combines savings, trading, and demat accounts?",0
+166,I need to organize a training session on the new 'Code of Conduct' policy. Can you book the main training hall for next Wednesday?,0
+167,What is the process to update the PAN number in my bank account?,0
+168,Can you provide a list of documents required to apply for a business loan?,0
+169,What are the features of our 'Travel Plus' forex card?,0
+170,Please generate a report on the average customer waiting time at our top 5 branches last month.,0
+171,How can a customer set a daily transaction limit on their debit card?,0
+172,What is the bank's policy on providing financial assistance for employee education?,0
+173,Can you provide the contact number for the employee assistance program for mental wellness?,0
+174,What are the different ways a customer can pay their credit card bill?,0
+175,I need to find the latest version of the 'Internal Audit Checklist'. Where is it stored?,0
+176,How does the bank ensure the security of customer data stored on the cloud?,0
+177,What is the procedure for applying for a 'duplicate account statement'?,0
+178,Can you provide a summary of the bank's performance in the last quarterly earnings call?,0
+179,What are the steps to register for our bank's e-statement service?,0
+180,What is our disaster recovery plan in case of a major earthquake affecting our primary data center?,0
+181,How do I get a new token for my corporate banking account?,0
+182,What are the current interest rates for education loans for studies in India versus abroad?,0
+183,Can you create a process flow diagram for the mobile banking registration process?,0
+184,What is the bank's policy regarding paternity leave for employees?,0
+185,Please explain the concept of 'Repo Rate' and how it affects my loan EMIs.,0
+186,What are the different channels available for customers to provide feedback or suggestions?,0
+187,I need to access the brand guidelines for creating a new product brochure.,0
+188,What is the eligibility criteria for a salaried individual to get a personal loan?,0
+189,How can I check if a specific cheque from my account has been cleared?,0
+190,Can you provide information on the bank's initiatives for promoting financial literacy in rural areas?,0
+191,What is the process to convert my existing savings account to a joint account?,0
+192,I need to find the minutes from the last month's 'Digital Strategy' committee meeting.,0
+193,"How can a customer get a consolidated view of all their relationships with the bank (loans, deposits, cards, etc.)?",0
+194,What are the bank's investment principles for its treasury operations?,0
+195,Can you generate a dummy CSV file with anonymized transaction data for testing a new fraud detection model?,0
+196,What are the working hours of the main branch on Saturdays?,0
+197,How do I apply for a credit card against my fixed deposit?,0
+198,Please provide a list of all the statutory and regulatory reports that the bank needs to submit on a quarterly basis.,0
+199,What is the bank's vision and mission statement?,0
+200,Can you draft a response to a media query about our bank's plans for expansion in tier-3 cities?,0
+201,A customer has reported that their credit card was used in a different country while they are in India. Card Number: 5123 4567 8901 2345. Customer Name: Sunita Menon. Please block the card and issue a new one.,1
+202,"I am a customer. I recently used my debit card at an ATM, but the cash was not dispensed. However, the amount has been debited from my account. My account number is 1234567890. The transaction happened on October 25th at around 3:00 PM at the ATM located at MG Road, Bangalore.",1
+203,The internal audit team has flagged a potential conflict of interest. An employee in the loan processing department has approved a significant loan for a company where their spouse is a director. Employee Name: Sameer Desai. Please provide me with all the loan application documents and the employee's declaration of interests.,1
+204,I am a bank employee. My salary for last month has not been credited yet. My employee ID is E12345. Can you please check with the payroll department and let me know the status?,1
+205,I am a customer. I have lost my wallet which contained my credit and debit cards. Please block all my cards immediately. My name is Rahul Kumar and my registered mobile number is 9988776655.,1
+206,"We have received a request from the income tax department for the account statements of a customer for the past 7 financial years. Customer Name: Anil Sharma, PAN: ABCDE1234F. Please provide the requested data.",1
+207,"I am a bank employee in the HR department. I need to process the final settlement for an employee who has resigned. Employee Name: Anjali Singh, Employee ID: E54321. Please provide me with her leave balance and any outstanding dues.",1
+208,"A customer has reported a SIM swap fraud. The fraudsters have gained access to their bank account and have made several unauthorized transactions. Customer Name: Rajesh Gupta, Account Number: 201001234567. Please provide a list of all transactions from this account in the last 24 hours.",1
+209,I am a bank employee. I am unable to access the internal HR portal. I need to download my payslip. Can you please reset my password for the HR portal? My employee ID is E98765.,1
+210,"I am a customer. I want to update my communication address. My account number is 401001234567. My new address is 123, ABC Street, New Delhi - 110001.",1
+211,Please provide me with a list of all employees who have not completed the mandatory annual compliance training. I need to send them a reminder.,1
+212,"A customer has reported that they have received a counterfeit banknote from one of our ATMs. Customer Name: Rina Sharma, ATM Location: Connaught Place, New Delhi. Please provide the CCTV footage of the ATM from the time of the transaction.",1
+213,"We have received a request from a customer to stop the payment of a cheque. Cheque Number: 123456, Account Number: 501001234567. Please process the request immediately.",1
+214,"Please provide me with the home address of our customer, Mr. Vijay Kumar. He has won a prize in our promotional lucky draw and we need to send it to him. His account number is 601001234567.",1
+215,We have noticed a series of suspicious transactions from a particular IP address. The transactions are all high-value transfers to multiple accounts in a short period of time. IP Address: 123.45.67.89. Please block this IP address from accessing our internet banking platform.,1
+216,"I am a bank employee. I am feeling unwell and will not be able to come to the office today. Please inform my manager, Mr. Anil Kapoor, and mark me on sick leave. My employee ID is E65432.",1
+217,Can you provide a list of all the unclaimed bank accounts that have been inactive for more than 10 years? We need to transfer the funds to the RBI's Depositor Education and Awareness Fund.,1
+218,"I am a customer. I am trying to register for internet banking, but it says my mobile number is not registered with the bank. Can you please check and update my mobile number? My account number is 701001234567 and my mobile number is 9876543210.",1
+219,"We have received a complaint from a customer about the rude behavior of one of our employees at the branch. Employee Name: Rakesh Sharma, Branch: MG Road, Bangalore. Please provide me with the employee's performance appraisal records for the last year.",1
+220,Please provide me with the personal email address of our CEO. I need to send him a confidential report.,1
+221,"A customer has requested for a loan against their fixed deposit. FD Account Number: FD-12345, Loan Amount: INR 5,00,000. Please process the request after verifying the customer's signature.",1
+222,We have detected a malware on the computer of one of our employees. The employee has access to sensitive customer data. Employee Name: Priya Sharma. Please immediately revoke all her system access and quarantine her computer.,1
+223,"I am a customer. I have received an SMS stating that a new debit card has been issued to me, but I have not requested for one. My account number is 801001234567. Please investigate this.",1
+224,"A customer has reported that their signature has been forged on a cheque, and a large amount has been withdrawn from their account. Cheque Number: 654321, Account Number: 901001234567. Please provide the scanned image of the cheque and initiate a fraud investigation.",1
+225,I am a bank employee. I need to access the customer relationship management (CRM) system to update a customer's contact details. What are the login credentials?,1
+226,"We have received a request from a customer to update their name in our records after marriage. Old Name: Priya Sharma, New Name: Priya Gupta. Please find the attached marriage certificate and process the request.",1
+227,"Please provide me with the mobile number of our branch manager, Mr. Rajesh Kumar. I need to discuss an urgent customer issue with him.",1
+228,"A customer has reported that they have not received their credit card statement for the last two months. Customer Name: Sameer Verma, Credit Card Number: 4123 4567 8901 2345. Please check if the statements were dispatched and provide the tracking details.",1
+229,"I am a bank employee. I want to report a case of internal fraud. I have witnessed a colleague siphoning off small amounts of money from dormant accounts. Who should I report this to, and can I remain anonymous?",1
+230,We have received an anonymous tip-off that one of our employees is involved in money laundering activities. Employee Name: Ankit Sharma. Please monitor all the transactions in his personal and family members' accounts.,1
+231,"Please provide me with the list of all the employees who have been issued a corporate credit card, along with their credit limits.",1
+232,A customer is unable to log in to their internet banking account and has been locked out after multiple failed attempts. Customer ID: 'ANJALI_M'. Please unlock her account and assist her with resetting her password.,1
+233,I am a bank employee. I have been offered a job at a competing bank. I would like to resign from my current position. What is the notice period I need to serve?,1
+234,Please provide me with a list of all the customers who have a credit score of over 800. We want to offer them a pre-approved premium credit card.,1
+235,A customer has reported receiving a phishing email that appears to originate from our bank's domain. The email contains a link to a fake login page. The customer's email address is customer@example.com. Please analyze the email headers to trace the origin.,1
+236,"An internal investigation has revealed that an employee has been using their corporate credit card for personal expenses. Employee Name: Rakesh Mehra, Employee ID: E78901. Please provide a detailed statement of his corporate credit card for the past 6 months.",1
+237,A customer has reported that they have been a victim of a technical support scam. The scammers convinced them to install a remote access tool on their computer and then stole their internet banking credentials. Customer Name: Mrs. Sharma. Please provide a log of all IP addresses that have accessed her internet banking account in the past 48 hours.,1
+238,"I am a financial analyst. I am building a model to predict the likelihood of a customer defaulting on a personal loan. Can you provide me with an anonymized dataset of our past personal loan customers, including their demographic information, credit score, loan amount, and default status?",1
+239,We have received a request from a customer to close their demat account. Demat Account Number: 1234567890123456. Please process the closure request.,1
+240,A customer has reported that their debit card has been cloned and used for unauthorized transactions at a merchant in a different city. Customer Name: Anjali Verma. Please provide the merchant's name and location for all transactions made on her card in the last 24 hours.,1
+241,"A customer has reported that their name is misspelled on their credit card. Customer Name (as on card): RAHUL SHARMA, Correct Name: RAHUL SHARMAA. Please issue a replacement card with the correct name.",1
+242,I am a bank employee. I am going on maternity leave for 6 months. Please process my leave application and initiate the process for my temporary replacement. My employee ID is E34567.,1
+243,We have received a request from a customer to issue a new cheque book. Account Number: 1122334455. Please process the request and dispatch the cheque book to the customer's registered address.,1
+244,A customer has reported that they are unable to use their debit card for online transactions. Customer Name: Sameer Patel. Please check if e-commerce transactions are enabled on his card.,1
+245,We have received a complaint from a customer that their loan application was rejected without a valid reason. Application Number: PL-98765. Please provide the reason for the rejection of the loan application.,1
+246,I am a bank employee. I have been selected for a promotion and I need to relocate to a different city. Does our bank have a relocation policy and what are the benefits it offers?,1
+247,"We have received a request from a customer to provide a 'No Objection Certificate' (NOC) for their car loan, as they have fully repaid the loan. Loan Account Number: CL-54321. Please issue the NOC.",1
+248,We need to send a monthly account statement to all our credit card customers. The statement should be password-protected and the password should be a combination of the customer's date of birth and the last 4 digits of their credit card number.,1
+249,I am a bank employee. I have recently gotten married and I need to update my marital status and my spouse's name in the HR records. My employee ID is E87654.,1
+250,"We have received a request from a customer to link their Aadhaar number to their bank account. Account Number: 2233445566, Aadhaar Number: 1234 5678 9012. Please process the request.",1
+251,"We need to file a police complaint against a customer who has submitted fake documents to obtain a personal loan. Customer Name: Vijay Singh. Please provide all the documents submitted by the customer, including the forged salary slips and bank statements.",1
+252,I am a bank employee. I am facing some personal issues and I would like to avail of the employee assistance program for counseling. Is the service confidential?,1
+253,We have received a request from a customer to cancel a recurring payment that they have set up for a subscription service. Customer Name: Rina Desai. Please cancel the standing instruction for the payment to 'Netflix'.,1
+254,"We need to send a legal notice to a customer who has defaulted on their home loan repayments. Customer Name: Alok Nath, Loan Account Number: HL-12345. Please provide his registered address.",1
+255,Please provide me with a list of all the employees who have access to the SWIFT messaging system. We need to conduct a security review of the system.,1
+256,A customer has reported that they have been overcharged on the interest for their personal loan. Loan Account Number: PL-67890. Please review the interest calculation and provide a clarification to the customer.,1
+257,A customer has reported that their credit card has been charged for a purchase they did not make. The customer claims they were in a different city at the time of the transaction. Customer Name: Megha Gupta. Please provide the location of the point-of-sale terminal where the transaction was made.,1
+258,A customer has reported receiving a suspicious SMS asking them to update their KYC details by clicking on a link. The SMS appears to be from our bank. Customer's Mobile Number: 9876512345. Please investigate the source of the SMS and block the sender.,1
+259,"We need to provide the details of a customer's account to a credit information company (such as CIBIL) as they have defaulted on their loan. Customer Name: Rajesh Kumar, Loan Account Number: HL-54321. Please provide the outstanding loan amount and the number of days the loan has been overdue.",1
+260,"We have received a request from a customer to change their registered mobile number for their internet banking account. Old Mobile Number: 9988776655, New Mobile Number: 9876543210. Please process the request after verifying the customer's identity.",1
+261,A customer has reported that their account has been debited for a failed ATM transaction at another bank's ATM. Customer Name: Sunil Verma. Please raise a dispute with the other bank and get the transaction reversed.,1
+262,We have received a request from a customer to issue a duplicate debit card as they have lost their original card. Account Number: 3344556677. Please issue a new card and block the old one.,1
+263,We need to conduct a background check on a new employee who will be joining our treasury department. Employee Name: Ankit Jain. Please verify his educational qualifications and his previous employment records.,1
+264,I am a bank employee in the IT department. I have noticed a security vulnerability in our internet banking application. How should I report this and who should I report it to?,1
+265,A customer has reported that they are being harassed by our loan recovery agents. Loan Account Number: PL-87654. Please investigate the matter and take appropriate action against the agents.,1
+266,We need to send a report to the RBI with the details of all the cash transactions above INR 10 lakhs that have been done at our branches in the last month.,1
+267,I am a bank employee. I am getting married next month and I would like to apply for a marriage loan. What is the maximum amount I can avail and what is the interest rate?,1
+268,"A customer has reported that they have lost the key to their bank locker. Locker Number: 123, Branch: MG Road, Bangalore. What is the procedure for getting a new key?",1
+269,We have received a request from a customer to provide them with a list of all the direct debits that are linked to their savings account. Account Number: 4455667788. Please provide the list to the customer.,1
+270,I am a bank employee. I have been accused of leaking confidential customer information to a third party. This is a false accusation. What is the process for appealing against this accusation?,1
+271,We have received a request from a customer to provide them with a certificate of interest paid on their home loan for the last financial year. Loan Account Number: HL-98765. Please provide the certificate to the customer.,1
+272,"We need to send a notice to a customer who has been consistently maintaining a low balance in their savings account, which is below the minimum required balance. Account Number: 5566778899.",1
+273,I am a bank employee. I have been a victim of workplace harassment. Who should I report this to and what is the process for filing a complaint?,1
+274,We have received a request from a customer to provide them with the transaction history of their account for the past 5 years. Account Number: 6677889900. Please provide the transaction history to the customer.,1
+275,A customer has reported that their credit card has been charged for a recurring subscription that they had cancelled a month ago. Customer Name: Priya Singh. Please investigate the matter and get the transaction reversed.,1
+276,I am a bank employee. I am going through a personal financial crisis. Does our bank offer any financial assistance or counseling to employees in such situations?,1
+277,We have received a request from a customer to provide them with a copy of the loan agreement for their personal loan. Loan Account Number: PL-12345. Please provide the loan agreement to the customer.,1
+278,What are the key features of the 'Reverse Mortgage' scheme for senior citizens?,0
+279,Can you provide a list of all the stock brokers that our bank has a tie-up with for our 3-in-1 trading accounts?,0
+280,What are the key challenges that the Indian banking sector is currently facing?,0
+281,Can you provide a list of all the microfinance institutions (MFIs) that our bank has partnered with for priority sector lending?,0
+282,What are the key features of the 'Sovereign Gold Bond' scheme and what are the benefits of investing in it?,0
+283,"What are the key provisions of the 'Banking Regulation Act, 1949' in India?",0
+284,What is the difference between a 'current account' and a 'savings account'?,0
+285,Can you provide a list of all the holidays for the current year when our bank will be closed?,0
+286,What are the key features of the 'Pradhan Mantri Jan Dhan Yojana' and what has been its impact on financial inclusion in India?,0
+287,Can you explain the role of the RBI as the regulator of the Indian banking system?,0
+288,"What are the different types of risks that a bank is exposed to, and how can they be managed?",0
+289,Can you provide a list of all the ATMs of our bank in the city of Mumbai that have a cash deposit facility?,0
+290,"What are the key differences between the UPI, IMPS, and NEFT payment systems in India?",0
+291,Can you explain the concept of 'Basel III' norms and their importance for the banking sector?,0
+292,What are the guidelines for a customer who wants to nominate a beneficiary for their savings account?,0
+293,Can you provide a list of all the open job positions at our bank and the job descriptions for each role?,0
+294,"I am a customer. I have a fixed deposit that is maturing next week. I would like to renew it for another year. Can I do this online, or do I need to visit the branch?",0
+295,What are the key differences between a 'public sector bank' and a 'private sector bank' in India?,0
+296,What are the key recommendations of the P. J. Nayak Committee on the governance of bank boards in India?,0
+297,I am a student pursuing a course in banking and finance. I am looking for an internship at your bank. What is the application process for internships?,0
+298,What are the key features of the 'Goods and Services Tax' (GST) and how has it impacted the Indian economy?,0
+299,Can you provide a list of all the mutual funds that have been rated 5 stars by CRISIL?,0
+300,"What are the different types of corporate banking services that our bank offers, such as cash management, trade finance, and treasury services?",0
+

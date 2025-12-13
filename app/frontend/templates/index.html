@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Diu Bank Chatbot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+  <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
+</head>
+
+<body>
+  <div class="chat-wrapper">
+    <!-- HEADER -->
+    <header>
+      <h2>Diu Bank Chatbot</h2>
+    </header>
+
+    <!-- CHAT BOX -->
+    <div id="chatContainer" class="chat-container"></div>
+
+    <!-- INPUT AREA -->
+    <div class="input-area">
+      <input id="userQuery" type="text" placeholder="Type your query..." autocomplete="off" />
+      <button id="sanitizeBtn">Send</button>
+    </div>
+
+    <!-- COMPARE BUTTON (Hidden Initially) -->
+    <button id="compareBtn" class="compare-btn" style="display:none;">
+      Compare LLM Responses
+    </button>
+
+    <!-- FILTER POPUP -->
+    <div id="filterPopup" class="popup">
+      <div class="popup-content">
+        <h3>⚠️ Potential Sensitive Information Detected</h3>
+        <p>
+          Your message contains information that might be sensitive.
+          Please uncheck any items you'd like to remove from the query.
+        </p>
+        <div id="tags" class="tag-list"></div>
+        <div class="popup-buttons">
+          <button id="applyFilter">Apply Filter & Continue</button>
+          <button id="keepOriginal">Send Without Filtering</button>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+
+</html>
