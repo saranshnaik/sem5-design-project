@@ -13,7 +13,7 @@ from sentence_transformers import SentenceTransformer, util
 
 MODEL_PATH = "../../model/final_sanitizer_model"
 
-genai.configure(api_key="AIzaSyAEH_H7oAiy1Lu0KVgmjHLgUUYN9Y3-NJA")
+genai.configure(api_key="[YOUR_API_KEY]")
 llm_model = genai.GenerativeModel("gemini-2.5-flash")
 
 similarity_model = SentenceTransformer("all-MiniLM-L6-v2")
