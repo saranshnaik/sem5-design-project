@@ -24,7 +24,7 @@
 
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyAEH_H7oAiy1Lu0KVgmjHLgUUYN9Y3-NJA")
+genai.configure(api_key="[YOUR_API_KEY]")
 
 print("\nAvailable Gemini models:\n" + "-" * 40)
 for m in genai.list_models():
